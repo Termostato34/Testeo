@@ -128,3 +128,33 @@
 [23:29:08] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
 [23:38:33] [Server thread/INFO]: Termostato34 has made the advancement [Isn't It Iron Pick]
 [23:43:59] [Server thread/INFO]: Termostato34 has made the advancement [Suit Up]
+[23:46:05] [Server thread/INFO]: Villager Villager['Nitwit'/12799, uuid='fac76a9e-571e-48f9-81a1-1ff37c47bc91', l='ServerLevel[world]', x=686.70, y=128.05, z=-3106.30, cpos=[42, -195], tl=18714, v=true] died, message: 'Nitwit was slain by Zombie'
+[23:46:26] [Server thread/INFO]: Termostato34 has made the advancement [What a Deal!]
+[23:48:14] [Server thread/INFO]: Villager Villager['Farmer'/12774, uuid='e7dfc6e8-b0e7-4c8f-8e7e-8a4e32331e3a', l='ServerLevel[world]', x=687.31, y=129.00, z=-3101.72, cpos=[42, -194], tl=21299, v=true] died, message: 'Farmer was slain by Zombie'
+[23:49:38] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
+[23:49:38] [Server thread/INFO]: [InfernalMobs] Detected Entity Spawn: Ender Dragon
+[23:49:43] [Server thread/INFO]: Termostato34 was slain by Infernal Ender dragon
+[23:49:49] [Server thread/INFO]: Termostato34 issued server command: /back
+[23:49:49] [Server thread/INFO]: [Essentials] Termostato34 was denied access to command.
+[23:49:57] [Server thread/INFO]: Made Termostato34 a server operator
+[23:50:01] [Server thread/INFO]: Termostato34 issued server command: /back
+[23:50:12] [Server thread/INFO]: Termostato34 issued server command: /essentials:back
+[23:50:14] [Server thread/INFO]: Termostato34 issued server command: /essentials:back
+[23:50:30] [Server thread/INFO]: Termostato34 issued server command: /plugins
+[23:50:33] [Server thread/INFO]: Termostato34 issued server command: /back
+[23:50:34] [Server thread/INFO]: Termostato34 issued server command: /back
+[23:50:45] [Server thread/INFO]: Termostato34 issued server command: /deathchest:deathchest
+[23:50:48] [Server thread/INFO]: Termostato34 issued server command: /deathchest
+[23:50:53] [Server thread/INFO]: Termostato34 issued server command: /deathchest help
+[23:51:08] [Server thread/INFO]: Termostato34 issued server command: /backs
+[23:51:18] [Server thread/INFO]: Termostato34 issued server command: /essentials:back
+[23:52:11] [Server thread/INFO]: Termostato34 issued server command: /tp Termostato34 687 129 3101
+[23:52:41] [Server thread/INFO]: Termostato34 issued server command: /tp Termostato34 687 129 3101
+[23:53:18] [Server thread/INFO]: Termostato34 issued server command: /tp Termostato34 687 129 3101
+[23:53:21] [Server thread/INFO]: Termostato34 issued server command: /gamemode creative
+[23:53:39] [Server thread/INFO]: Termostato34 issued server command: /locate structure minecraft:village_plains
+[23:53:39] [Server thread/INFO]: Locating element minecraft:village_plains took 417 ms
+[23:53:44] [Server thread/INFO]: Termostato34 issued server command: /tp @s 1248 ~ 3008
+[23:53:50] [Server thread/INFO]: Termostato34 issued server command: /tp @p 1248 ~ 3008
+[23:53:54] [Server thread/INFO]: Termostato34 issued server command: /tp Termostato34 1248 ~ 3008
+[23:54:11] [Server thread/INFO]: Termostato34 issued server command: /tps
