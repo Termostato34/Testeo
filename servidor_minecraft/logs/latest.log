@@ -118,3 +118,11 @@
 [23:05:14] [Server thread/INFO]: Termostato34 joined the game
 [23:05:15] [Server thread/INFO]: Termostato34[/192.168.194.50:58659] logged in with entity id 30 at ([world]-17.737863563623463, 112.0, -307.76617706118856)
 [23:10:17] [Server thread/INFO]: Termostato34 has made the advancement [Ice Bucket Challenge]
+[23:25:01] [Server thread/INFO]: Named entity Bat['Infernal Bat'/9020, uuid='52178a71-ef7d-4faf-848c-5c1d43bbb6fd', l='ServerLevel[world]', x=1511.51, y=38.62, z=-2488.88, cpos=[94, -156], tl=796, v=true] died: Infernal Bat tried to swim in lava
+[23:26:41] [Server thread/INFO]: Termostato34 has made the advancement [Diamonds!]
+[23:26:42] [Server thread/INFO]: Termostato34 has made the advancement [Acquire Hardware]
+[23:28:50] [Server thread/INFO]: Termostato34 has made the advancement [Not Today, Thank You]
+[23:28:59] [Server thread/INFO]: Termostato34 has made the advancement [Monster Hunter]
+[23:29:08] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[23:29:08] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[23:29:08] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
