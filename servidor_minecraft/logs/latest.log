@@ -1,0 +1,120 @@
+[23:03:42] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[23:03:42] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[23:03:42] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:03:43] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[23:03:43] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+ - BloodMoon (0.8.1), DeathChest (2.2.7), EnchantsSquared (2.5.11), Essentials (2.20.1), InfernalMobs (6.8), TabTPS (1.3.25), TreeCapitator (7.1)
+[23:03:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:03:52] [ServerMain/INFO]: Loaded 1290 recipes
+[23:03:53] [ServerMain/INFO]: Loaded 1399 advancements
+[23:03:53] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[23:03:53] [Server thread/INFO]: Loading properties
+[23:03:53] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[23:03:54] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:03:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:03:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:03:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[23:03:56] [Server thread/INFO]: Default game type: SURVIVAL
+[23:03:56] [Server thread/INFO]: Generating keypair
+[23:03:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:03:56] [Server thread/INFO]: Using epoll channel type
+[23:03:56] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:03:56] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[23:03:58] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[23:03:59] [Server thread/INFO]: [TabTPS] Loading server plugin TabTPS v1.3.25
+[23:03:59] [Server thread/INFO]: [EnchantsSquared] Loading server plugin EnchantsSquared v2.5.11
+[23:03:59] [Server thread/INFO]: [TreeCapitator] Loading server plugin TreeCapitator v7.1
+[23:03:59] [Server thread/INFO]: [BloodMoon] Loading server plugin BloodMoon v0.8.1
+[23:03:59] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v2.2.7
+[23:03:59] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[23:03:59] [Server thread/INFO]: [InfernalMobs] Loading server plugin InfernalMobs v6.8
+[23:03:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:03:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:03:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:03:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:03:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:03:59] [Server thread/INFO]: Preparing level "world"
+[23:04:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:04:02] [Server thread/INFO]: Time elapsed: 2248 ms
+[23:04:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:04:02] [Server thread/INFO]: Time elapsed: 515 ms
+[23:04:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:04:03] [Server thread/INFO]: Time elapsed: 234 ms
+[23:04:03] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.3.25
+[23:04:07] [Server thread/INFO]: [EnchantsSquared] Enabling EnchantsSquared v2.5.11
+[23:04:08] [Server thread/INFO]: [TreeCapitator] Enabling TreeCapitator v7.1
+[23:04:08] [Server thread/INFO]: [TreeCapitator] WorldGuard not found. Maybe WorldGuard or this plugin are not up to date?
+[23:04:09] [Server thread/INFO]: [TreeCapitator] An update is available, use /tc update to update to the lastest version (from v7.1 to v6.4.4)
+[23:04:09] [Server thread/INFO]: [TreeCapitator] Logs from JSON: [OAK_LOG, OAK_LOG, OAK_LOG, OAK_LOG]
+[23:04:09] [Server thread/INFO]: [TreeCapitator] Leaves from JSON: [OAK_LEAVES, OAK_LEAVES, OAK_LEAVES, OAK_LEAVES]
+[23:04:09] [Server thread/INFO]: [TreeCapitator] Enabled
+[23:04:09] [Server thread/INFO]: [BloodMoon] Enabling BloodMoon v0.8.1
+[23:04:09] [Server thread/INFO]: [BloodMoon] This plugin is still in its infancy. If you encounter a bug, please report it to https://www.spigotmc.org/threads/bloodmoon.412741/
+[23:04:09] [Server thread/INFO]: [DeathChest] Enabling DeathChest v2.2.7
+[23:04:10] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world"
+[23:04:10] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[23:04:10] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
+[23:04:10] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[23:04:10] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
+[23:04:10] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[23:04:10] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[23:04:10] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[23:04:12] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[23:04:12] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[23:04:13] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[23:04:13] [Server thread/INFO]: [Essentials] Using locale en
+[23:04:13] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[23:04:13] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[23:04:13] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[23:04:13] [Server thread/INFO]: [InfernalMobs] Enabling InfernalMobs v6.8
+[23:04:13] [Server thread/INFO]: [InfernalMobs] Registered Events.
+[23:04:14] [Server thread/INFO]: [spark] Starting background profiler...
+[23:04:14] [Server thread/INFO]: Done preparing level "world" (15.104s)
+[23:04:14] [Server thread/INFO]: Running delayed init tasks
+[23:04:14] [Server thread/INFO]: Done (33.147s)! For help, type "help"
+[23:04:14] [Server thread/INFO]: Timings Reset
+[23:04:14] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[23:04:14] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] There is an update available for TabTPS!
+[23:04:14] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] This server is running version v1.3.25, which is 1 versions outdated.
+[23:04:14] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] Download the latest version, v1.3.26 from GitHub at the link below:
+[23:04:14] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] https://github.com/jpenilla/TabTPS/releases/tag/v1.3.26
+[23:05:13] [User Authenticator #0/INFO]: UUID of player Termostato34 is a62bbb5f-22fb-364c-8ce6-21a51aa29739
+[23:05:14] [Server thread/INFO]: Termostato34 joined the game
+[23:05:15] [Server thread/INFO]: Termostato34[/192.168.194.50:58659] logged in with entity id 30 at ([world]-17.737863563623463, 112.0, -307.76617706118856)
+[23:10:17] [Server thread/INFO]: Termostato34 has made the advancement [Ice Bucket Challenge]

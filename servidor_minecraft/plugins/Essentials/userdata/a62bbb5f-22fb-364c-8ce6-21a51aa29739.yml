@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.194.50
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739918655624
+  login: 1739919915347
+money: '0'
+last-account-name: Termostato34
+logoutlocation:
+  world: a674a471-1712-4488-8e3e-e6f8a3c5aa7e
+  world-name: world
+  x: -17.737863563623463
+  y: 112.0
+  z: -307.76617706118856
+  yaw: 164.76194763183594
+  pitch: 49.765140533447266
