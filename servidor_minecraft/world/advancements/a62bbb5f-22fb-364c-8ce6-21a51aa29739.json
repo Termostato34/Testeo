@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:beach": "2025-02-18 23:22:56 +0000",
       "minecraft:dark_forest": "2025-02-18 23:13:00 +0000",
+      "minecraft:stony_peaks": "2025-02-18 23:34:41 +0000",
       "minecraft:forest": "2025-02-18 22:40:32 +0000",
       "minecraft:sparse_jungle": "2025-02-18 23:21:23 +0000",
       "minecraft:river": "2025-02-18 23:06:09 +0000",
@@ -456,6 +457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-18 23:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-18 23:26:45 +0000"
@@ -507,6 +514,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 23:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-18 23:38:33 +0000"
     },
     "done": true
   },
@@ -642,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-02-18 23:31:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-02-18 23:26:41 +0000"
@@ -699,6 +718,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-02-18 23:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-18 23:36:28 +0000"
     },
     "done": true
   },
@@ -770,6 +795,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-18 23:31:18 +0000",
+      "minecraft:zombie": "2025-02-18 23:33:48 +0000",
       "minecraft:drowned": "2025-02-18 23:28:59 +0000"
     },
     "done": false
@@ -816,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-18 23:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:drowned": "2025-02-18 23:28:59 +0000"
@@ -858,15 +891,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-18 23:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-18 23:31:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-18 23:06:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-18 23:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-18 23:31:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-02-18 23:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-18 23:31:39 +0000"
     },
     "done": true
   },
