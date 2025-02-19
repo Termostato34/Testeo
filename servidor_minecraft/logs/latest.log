@@ -146,3 +146,5 @@
 [00:51:34] [User Authenticator #1/INFO]: UUID of player Termostato34 is a62bbb5f-22fb-364c-8ce6-21a51aa29739
 [00:51:35] [Server thread/INFO]: Termostato34 joined the game
 [00:51:35] [Server thread/INFO]: Termostato34[/192.168.194.50:64702] logged in with entity id 14193 at ([world]-143.76249998807907, 64.0, 198.34659994930496)
+[00:56:23] [Server thread/INFO]: Villager Villager['Fletcher'/375, uuid='48855fe5-fd61-4140-abd6-7ee38ba7dbc2', l='ServerLevel[world]', x=-208.58, y=66.00, z=205.91, cpos=[-14, 12], tl=51050, v=true] died, message: 'Fletcher was slain by Zombie'
+[00:57:48] [Server thread/INFO]: Villager Villager['Fletcher'/315, uuid='31af9e19-2cfa-4e91-a32f-8efea54da4b6', l='ServerLevel[world]', x=-55.65, y=66.00, z=166.33, cpos=[-4, 10], tl=49795, v=true] died, message: 'Fletcher was slain by Zombie'
