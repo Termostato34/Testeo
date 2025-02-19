@@ -136,3 +136,7 @@
 [00:28:06] [Server thread/INFO]: Termostato34 issued server command: /essentials:back
 [00:28:26] [Server thread/INFO]: Termostato34 issued server command: /tp -156 45 162
 [00:29:55] [Server thread/INFO]: Termostato34 has made the advancement [What a Deal!]
+[00:37:23] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/8635, uuid='59dcb37c-cf13-4130-8520-7e5e199e0f50', l='ServerLevel[world]', x=-132.76, y=18.58, z=209.55, cpos=[-9, 13], tl=2215, v=true] died: Infernal Creeper suffocated in a wall
+[00:41:11] [Server thread/INFO]: Villager Villager['Fletcher'/303, uuid='22d3b389-9138-4aaf-adbc-68df9e391e3a', l='ServerLevel[world]', x=-153.73, y=75.00, z=168.90, cpos=[-10, 10], tl=40791, v=true] died, message: 'Fletcher was slain by Zombie'
+[00:41:24] [Server thread/INFO]: Villager Villager['Fletcher'/272, uuid='e5d78b97-0247-4aa8-a43f-58a4749c573a', l='ServerLevel[world]', x=-153.89, y=75.00, z=168.30, cpos=[-10, 10], tl=41190, v=true] died, message: 'Fletcher was slain by Zombie'
+[00:41:31] [Server thread/INFO]: Villager Villager['Fletcher'/311, uuid='31f70014-9b0e-4bc9-a353-25a37fd33253', l='ServerLevel[world]', x=-151.21, y=75.00, z=168.39, cpos=[-10, 10], tl=40636, v=true] died, message: 'Fletcher was slain by Zombie'
