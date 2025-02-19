@@ -140,3 +140,9 @@
 [00:41:11] [Server thread/INFO]: Villager Villager['Fletcher'/303, uuid='22d3b389-9138-4aaf-adbc-68df9e391e3a', l='ServerLevel[world]', x=-153.73, y=75.00, z=168.90, cpos=[-10, 10], tl=40791, v=true] died, message: 'Fletcher was slain by Zombie'
 [00:41:24] [Server thread/INFO]: Villager Villager['Fletcher'/272, uuid='e5d78b97-0247-4aa8-a43f-58a4749c573a', l='ServerLevel[world]', x=-153.89, y=75.00, z=168.30, cpos=[-10, 10], tl=41190, v=true] died, message: 'Fletcher was slain by Zombie'
 [00:41:31] [Server thread/INFO]: Villager Villager['Fletcher'/311, uuid='31f70014-9b0e-4bc9-a353-25a37fd33253', l='ServerLevel[world]', x=-151.21, y=75.00, z=168.39, cpos=[-10, 10], tl=40636, v=true] died, message: 'Fletcher was slain by Zombie'
+[00:50:30] [Server thread/INFO]: Termostato34 issued server command: /Tps
+[00:51:01] [Server thread/INFO]: Termostato34 lost connection: Timed out
+[00:51:01] [Server thread/INFO]: Termostato34 left the game
+[00:51:34] [User Authenticator #1/INFO]: UUID of player Termostato34 is a62bbb5f-22fb-364c-8ce6-21a51aa29739
+[00:51:35] [Server thread/INFO]: Termostato34 joined the game
+[00:51:35] [Server thread/INFO]: Termostato34[/192.168.194.50:64702] logged in with entity id 14193 at ([world]-143.76249998807907, 64.0, 198.34659994930496)

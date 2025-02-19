@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-19 00:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 00:09:35 +0000"
@@ -191,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-19 00:47:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 00:09:35 +0000"
@@ -260,6 +272,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2025-02-19 00:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-02-19 00:45:17 +0000"
     },
     "done": true
   },
@@ -724,9 +742,16 @@
       "minecraft:skeleton": "2025-02-19 00:06:23 +0000",
       "minecraft:spider": "2025-02-19 00:21:45 +0000",
       "minecraft:zombie": "2025-02-19 00:21:50 +0000",
+      "minecraft:creeper": "2025-02-19 00:40:41 +0000",
       "minecraft:drowned": "2025-02-19 00:13:13 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-19 00:47:09 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
@@ -897,6 +922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-02-19 00:45:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-19 00:04:08 +0000"
@@ -941,6 +972,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-02-19 00:47:37 +0000",
       "bread": "2025-02-19 00:10:23 +0000",
       "rotten_flesh": "2025-02-19 00:07:49 +0000",
       "cooked_cod": "2025-02-19 00:23:20 +0000",
