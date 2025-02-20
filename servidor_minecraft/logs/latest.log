@@ -165,3 +165,21 @@
 [03:40:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> que hacemos?
 [03:40:28] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
 [03:40:52] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
+[03:42:01] [Server thread/INFO]: Bumper202 lost connection: Disconnected
+[03:42:01] [Server thread/INFO]: Bumper202 left the game
+[03:42:42] [User Authenticator #2/INFO]: UUID of player Bumper202 is 6f43db09-d6f1-35d4-b106-2625ad5968bd
+[03:42:44] [Server thread/INFO]: Bumper202 joined the game
+[03:42:44] [Server thread/INFO]: Bumper202[/192.168.194.175:55473] logged in with entity id 2384 at ([world]-1555.2555262807732, 70.0, 1032.845155225275)
+[03:43:03] [Server thread/INFO]: Bumper202 issued server command: /home
+[03:43:05] [Server thread/INFO]: Bumper202 issued server command: /homes
+[03:44:35] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/2285, uuid='8bf5af1e-91f4-438a-ac02-515f53e15325', l='ServerLevel[world]', x=-1576.48, y=62.00, z=1475.41, cpos=[-99, 92], tl=2787, v=true] died: Infernal Zombie was slain by Termostato34
+[03:45:13] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
+[03:45:32] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
+[03:47:07] [Server thread/INFO]: Termostato34 issued server command: /echest
+[03:49:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Termostato34> y el gabriel?
+[03:49:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Bumper202> no se está pudiendo conectar no spe por qué?
+[03:50:01] [Async Chat Thread - #2/INFO]: [Not Secure] <Termostato34> tipico de estudiante de la nacional
+[03:50:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Bumper202> eeeey
+[03:50:18] [Async Chat Thread - #2/INFO]: [Not Secure] <Termostato34> q
+[03:50:31] [Server thread/INFO]: Bumper202 lost connection: Disconnected
+[03:50:31] [Server thread/INFO]: Bumper202 left the game
