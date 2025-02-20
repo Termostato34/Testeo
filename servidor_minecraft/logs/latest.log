@@ -267,3 +267,13 @@
 [04:49:27] [Server thread/INFO]: Termostato34 issued server command: /back
 [04:49:39] [Server thread/INFO]: Termostato34 issued server command: /gamemode creative
 [04:50:04] [Server thread/INFO]: Termostato34 issued server command: /gamemode survival
+[04:55:10] [Server thread/INFO]: skullyxrd was burned to a crisp while fighting Blaze
+[04:55:16] [Server thread/INFO]: skullyxrd issued server command: /back
+[04:55:21] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/25063, uuid='f33de04f-ea59-4096-adb3-9eefe3d5ffb9', l='ServerLevel[world_nether]', x=-15.50, y=71.36, z=226.28, cpos=[-1, 14], tl=13928, v=true] died: Infernal Piglin was shot by Bumper202
+[04:56:32] [Server thread/INFO]: Termostato34 issued server command: /homes
+[04:57:58] [Server thread/INFO]: skullyxrd withered away while fighting Wither Skeleton
+[04:58:05] [Server thread/INFO]: skullyxrd issued server command: /back
+[04:59:38] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/30846, uuid='cb979449-ebba-4ef2-af35-f276af4989b1', l='ServerLevel[world]', x=-1619.00, y=66.00, z=1542.43, cpos=[-102, 96], tl=1490, v=true] died: Infernal Zombie was slain by Termostato34
+[05:02:06] [Server thread/INFO]: skullyxrd was burned to a crisp while fighting Blaze
+[05:02:13] [Server thread/INFO]: skullyxrd issued server command: /back
+[05:02:27] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/30521, uuid='034c0313-ea61-4fb9-afd3-87d944212402', l='ServerLevel[world]', x=-1739.86, y=61.67, z=1492.87, cpos=[-109, 93], tl=6436, v=true] died: Infernal Skeleton suffocated in a wall
