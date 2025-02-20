@@ -445,6 +445,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-02-16 05:33:55 +0000",
+      "minecraft:cave_spider": "2025-02-20 04:06:02 +0000",
       "minecraft:skeleton": "2025-02-16 04:33:13 +0000",
       "minecraft:spider": "2025-02-16 05:14:49 +0000",
       "minecraft:wither_skeleton": "2025-02-16 05:31:24 +0000",

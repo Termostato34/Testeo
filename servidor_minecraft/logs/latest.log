@@ -197,3 +197,15 @@
 [04:00:03] [Server thread/INFO]: Termostato34 issued server command: /homes
 [04:00:06] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
 [04:00:46] [Server thread/INFO]: Termostato34 issued server command: /back
+[04:02:53] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
+[04:05:19] [Server thread/INFO]: skullyxrd issued server command: /skin
+[04:05:21] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/8265, uuid='3fb1028b-bc0c-4c39-979b-ece45f296371', l='ServerLevel[world]', x=-1628.78, y=91.67, z=1030.84, cpos=[-102, 64], tl=5232, v=true] died: Infernal Skeleton suffocated in a wall
+[04:05:27] [Server thread/INFO]: Bumper202 issued server command: /tpa Termostato34
+[04:05:30] [Server thread/INFO]: skullyxrd issued server command: /skins
+[04:05:32] [Server thread/INFO]: Termostato34 issued server command: /Tpaccept
+[04:05:33] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:05:39] [Server thread/INFO]: Bumper202 issued server command: /skin polar
+[04:05:39] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
+[04:08:01] [Server thread/INFO]: Termostato34 issued server command: /home
+[04:08:02] [Server thread/INFO]: Termostato34 issued server command: /homes
+[04:08:03] [Server thread/INFO]: skullyxrd issued server command: /skins

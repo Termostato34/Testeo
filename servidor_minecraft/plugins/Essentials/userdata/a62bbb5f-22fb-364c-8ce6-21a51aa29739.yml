@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1740024046623
+  lastteleport: 1740024482519
   lastheal: 0
   mute: 0
   jail: 0
@@ -40,8 +40,8 @@ homes:
 lastlocation:
   world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
   world-name: world
-  x: -1583.540858572278
-  y: 168.0
-  z: 993.120989401343
-  yaw: 55.931640625
-  pitch: 22.385496139526367
+  x: -1423.4385939056851
+  y: -31.0
+  z: 566.0960597736557
+  yaw: 74.3431396484375
+  pitch: 23.470653533935547
