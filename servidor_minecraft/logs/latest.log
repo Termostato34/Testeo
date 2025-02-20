@@ -451,3 +451,29 @@
 [06:34:07] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/67808, uuid='6a6852e9-f2c9-44b1-895c-db5aa480cdbf', l='ServerLevel[world_the_end]', x=-898.26, y=63.19, z=-547.20, cpos=[-57, -35], tl=1841, v=true] died: Infernal Enderman was slain by Termostato34
 [06:34:40] [Server thread/INFO]: skullyxrd hit the ground too hard
 [06:34:45] [Server thread/INFO]: skullyxrd issued server command: /back
+[06:36:12] [Server thread/INFO]: Bumper202 was slain by Shulker
+[06:36:16] [Server thread/INFO]: Bumper202 issued server command: /back
+[06:36:18] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
+[06:36:59] [Server thread/INFO]: Bumper202 was doomed to fall
+[06:37:01] [Server thread/INFO]: Bumper202 issued server command: /back
+[06:37:37] [Server thread/INFO]: Named entity Shulker['Infernal Shulker'/68564, uuid='8fa08637-11c1-488b-9201-6977555101f9', l='ServerLevel[world_the_end]', x=-863.50, y=112.00, z=-547.50, cpos=[-54, -35], tl=2468, v=true] died: Infernal Shulker was blown up by Infernal Shulker
+[06:38:34] [Server thread/INFO]: skullyxrd issued server command: /tpa accept
+[06:38:42] [Server thread/INFO]: skullyxrd issued server command: /tpa Termostato34
+[06:38:51] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
+[06:38:59] [Server thread/INFO]: Bumper202 has made the advancement [Local Brewery]
+[06:39:15] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
+[06:39:47] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
+[06:40:38] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
+[06:41:43] [Server thread/INFO]: Termostato34 has reached the goal [Sky's the Limit]
+[06:43:06] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
+[06:43:36] [Server thread/INFO]: Named entity ZombieHorse['Infernal Zombie horse'/70001, uuid='2d73f9f7-aaf9-4f8d-ab59-659c3f6de455', l='ServerLevel[world_the_end]', x=-1202.36, y=65.75, z=-90.97, cpos=[-76, -6], tl=599, v=true] died: Infernal Zombie horse was slain by Termostato34
+[06:44:22] [Server thread/INFO]: skullyxrd hit the ground too hard
+[06:44:29] [Server thread/INFO]: skullyxrd issued server command: /back
+[06:45:11] [Server thread/INFO]: skullyxrd was slain by Shulker
+[06:45:20] [Server thread/INFO]: skullyxrd issued server command: /back
+[06:45:33] [Server thread/INFO]: Termostato34 died
+[06:45:33] [Server thread/INFO]: Termostato34 was slain by Infernal Enderman
+[06:45:33] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/69867, uuid='83c5c28f-8a6d-4ff9-b807-6fa1c2c69c8d', l='ServerLevel[world_the_end]', x=-1080.76, y=58.00, z=23.55, cpos=[-68, 1], tl=3362, v=true] died: Infernal Enderman went off with a bang
+[06:45:35] [Server thread/INFO]: skullyxrd issued server command: /homes
+[06:45:35] [Server thread/INFO]: skullyxrd has completed the challenge [Great View From Up Here]
+[06:45:37] [Server thread/INFO]: Termostato34 issued server command: /back
