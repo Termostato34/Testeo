@@ -1,0 +1,18 @@
+chests:
+- createdAt: 1739694076793
+  protected: false
+  location:
+    ==: org.bukkit.Location
+    world: world
+    x: -1595.0
+    y: 66.0
+    z: 992.0
+    pitch: 0.0
+    yaw: 0.0
+  expireAt: 1739694676793
+  items:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: ARROW
+    amount: 2
+  player: 2e842f89-d34b-3777-acdb-eb206ff3ad7e

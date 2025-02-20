@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.194.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739690062504
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739694436548
+  login: 1739679493905
+money: '0'
+last-account-name: skullyxrd
+logoutlocation:
+  world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
+  world-name: world
+  x: -1584.4706506866703
+  y: 124.71667556937207
+  z: 993.3484083583918
+  yaw: 85.19482421875
+  pitch: -83.25000762939453
+lastlocation:
+  world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
+  world-name: world
+  x: -1593.8806871818676
+  y: 67.06175577385784
+  z: 991.6548512093059
+  yaw: 41.99993896484375
+  pitch: 22.19991111755371
+homes:
+  home:
+    world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
+    world-name: world
+    x: -1585.658822154423
+    y: 168.0
+    z: 994.5537686863389
+    yaw: -175.52685546875
+    pitch: 28.0501766204834

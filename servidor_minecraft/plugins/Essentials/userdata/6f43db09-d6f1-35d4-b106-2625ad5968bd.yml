@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.194.175
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739694269695
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739694436550
+  login: 1740022728674
+money: '0'
+last-account-name: Bumper202
+logoutlocation:
+  world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
+  world-name: world
+  x: -1565.2806200978687
+  y: 67.0
+  z: 1122.3856101333463
+  yaw: -9.13006591796875
+  pitch: 19.3647518157959
+lastlocation:
+  world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
+  world-name: world
+  x: 19.5
+  y: 111.0
+  z: 15.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
+    world-name: world
+    x: -1863.1429867488007
+    y: -44.0
+    z: 1465.164394926506
+    yaw: 99.72509765625
+    pitch: 39.449951171875
