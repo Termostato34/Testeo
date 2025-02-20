@@ -373,3 +373,22 @@
 [05:53:19] [Server thread/INFO]: Termostato34 issued server command: /echest
 [05:54:01] [Server thread/INFO]: Termostato34 issued server command: /echest
 [05:54:16] [Server thread/INFO]: Termostato34 issued server command: /echest
+[05:55:01] [Server thread/INFO]: skullyxrd was doomed to fall by Skeleton
+[05:55:08] [Server thread/INFO]: skullyxrd issued server command: /back
+[05:55:43] [Server thread/INFO]: Termostato34 issued server command: /echest
+[05:56:43] [Server thread/INFO]: Termostato34 issued server command: /homes
+[05:58:14] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
+[05:59:14] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
+[05:59:17] [Server thread/INFO]: Named entity Spider['Infernal Spider'/54549, uuid='c707a64b-a6d8-4182-8579-371065f93948', l='ServerLevel[world]', x=-1330.30, y=63.10, z=1023.30, cpos=[-84, 63], tl=2071, v=true] died: Infernal Spider was shot by Termostato34 using [Archers Bow]
+[06:00:03] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/55345, uuid='587b287c-6685-439c-8201-fda727e04a81', l='ServerLevel[world]', x=-1834.24, y=16.00, z=968.39, cpos=[-115, 60], tl=804, v=true] died: Infernal Creeper suffocated in a wall
+[06:02:08] [Server thread/INFO]: Bumper202 issued server command: /back
+[06:02:13] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
+[06:02:14] [Server thread/INFO]: Termostato34 issued server command: /back
+[06:02:19] [Server thread/INFO]: Termostato34 issued server command: /tpa skullyxrd
+[06:02:35] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
+[06:03:07] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
+[06:03:17] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
+[06:03:57] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
+[06:04:31] [Server thread/INFO]: Termostato34 issued server command: /back
+[06:04:44] [Server thread/INFO]: Termostato34 issued server command: /homes
+[06:05:02] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/58767, uuid='afbebfb8-288e-4ce5-b16e-5dd353b2664d', l='ServerLevel[world]', x=-1864.50, y=69.54, z=1007.72, cpos=[-117, 62], tl=2886, v=true] died: Infernal Creeper was shot by Bumper202
