@@ -392,3 +392,23 @@
 [06:04:31] [Server thread/INFO]: Termostato34 issued server command: /back
 [06:04:44] [Server thread/INFO]: Termostato34 issued server command: /homes
 [06:05:02] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/58767, uuid='afbebfb8-288e-4ce5-b16e-5dd353b2664d', l='ServerLevel[world]', x=-1864.50, y=69.54, z=1007.72, cpos=[-117, 62], tl=2886, v=true] died: Infernal Creeper was shot by Bumper202
+[06:05:22] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/59782, uuid='7ff6a737-db9d-4fb6-b9de-c6762e92d556', l='ServerLevel[world]', x=-1498.70, y=69.70, z=1058.30, cpos=[-94, 66], tl=1124, v=true] died: Infernal Skeleton was slain by Termostato34 using [Murder Axe]
+[06:06:05] [Server thread/INFO]: Bumper202 issued server command: /back
+[06:06:48] [Server thread/INFO]: Termostato34 issued server command: /back
+[06:06:57] [Server thread/INFO]: Termostato34 issued server command: /echest
+[06:07:47] [Server thread/INFO]: Termostato34 issued server command: /tpa skullyxrd
+[06:07:49] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
+[06:07:58] [Server thread/INFO]: Termostato34 issued server command: /tpa skullyxrd
+[06:08:07] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
+[06:08:21] [Server thread/INFO]: Termostato34 issued server command: /homes
+[06:09:25] [Server thread/INFO]: skullyxrd has made the advancement [Voluntary Exile]
+[06:09:42] [Server thread/INFO]: skullyxrd burned to death
+[06:09:52] [Server thread/INFO]: skullyxrd issued server command: /back
+[06:10:00] [Server thread/INFO]: Bumper202 issued server command: /back
+[06:10:37] [Server thread/INFO]: Termostato34 issued server command: /echest
+[06:11:15] [Server thread/INFO]: skullyxrd issued server command: /homes
+[06:11:43] [Server thread/INFO]: Termostato34 issued server command: /back
+[06:12:45] [Server thread/INFO]: Termostato34 issued server command: /back
+[06:13:02] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/63793, uuid='dd54535c-d240-40c3-a9f8-8c51364294e7', l='ServerLevel[world]', x=-2341.75, y=22.30, z=392.75, cpos=[-147, 24], tl=913, v=true] died: Infernal Zombie suffocated in a wall
+[06:13:43] [Server thread/INFO]: Named entity ZombifiedPiglin['Infernal Zombified piglin'/63670, uuid='4b89e278-d097-4c73-a0d4-250260102b35', l='ServerLevel[world_nether]', x=-227.69, y=103.00, z=174.53, cpos=[-15, 10], tl=1559, v=true] died: Infernal Zombified piglin was slain by Termostato34 using [Murder Axe]
+[06:14:55] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd

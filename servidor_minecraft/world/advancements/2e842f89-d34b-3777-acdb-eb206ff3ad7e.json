@@ -462,6 +462,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-20 06:09:25 +0000",
       "minecraft:skeleton": "2025-02-16 04:41:49 +0000",
       "minecraft:piglin": "2025-02-20 04:36:12 +0000",
       "minecraft:enderman": "2025-02-20 04:48:23 +0000",
@@ -1739,6 +1740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-20 06:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-02-20 04:43:06 +0000"
@@ -1799,6 +1806,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-20 06:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-20 06:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-02-20 05:54:03 +0000"
@@ -1826,6 +1845,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-20 04:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-20 06:13:57 +0000"
     },
     "done": true
   },
@@ -1883,9 +1908,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-20 06:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-02-20 04:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-20 06:09:25 +0000"
     },
     "done": true
   },
@@ -1913,6 +1950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-20 06:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-02-20 04:41:50 +0000"
@@ -1925,9 +1968,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-20 06:05:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-02-20 04:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-20 06:13:57 +0000"
     },
     "done": true
   },
@@ -1946,6 +2001,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-02-20 04:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-20 06:13:57 +0000"
     },
     "done": true
   },
@@ -2048,6 +2109,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-02-20 04:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-20 06:13:57 +0000"
     },
     "done": true
   },
