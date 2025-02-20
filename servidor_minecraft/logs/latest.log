@@ -412,3 +412,42 @@
 [06:13:02] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/63793, uuid='dd54535c-d240-40c3-a9f8-8c51364294e7', l='ServerLevel[world]', x=-2341.75, y=22.30, z=392.75, cpos=[-147, 24], tl=913, v=true] died: Infernal Zombie suffocated in a wall
 [06:13:43] [Server thread/INFO]: Named entity ZombifiedPiglin['Infernal Zombified piglin'/63670, uuid='4b89e278-d097-4c73-a0d4-250260102b35', l='ServerLevel[world_nether]', x=-227.69, y=103.00, z=174.53, cpos=[-15, 10], tl=1559, v=true] died: Infernal Zombified piglin was slain by Termostato34 using [Murder Axe]
 [06:14:55] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
+[06:15:59] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
+[06:16:01] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
+[06:16:12] [Server thread/INFO]: Termostato34 has made the advancement [Hidden in the Depths]
+[06:16:15] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
+[06:16:21] [Server thread/INFO]: Bumper202 issued server command: /tpa
+[06:16:26] [Server thread/INFO]: Termostato34 issued server command: /back
+[06:16:26] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
+[06:16:27] [Server thread/INFO]: skullyxrd has made the advancement [Eye Spy]
+[06:16:30] [Server thread/INFO]: Termostato34 issued server command: /echest
+[06:18:00] [Server thread/INFO]: skullyxrd has made the advancement [The End?]
+[06:18:01] [Server thread/INFO]: Bumper202 has made the advancement [The End?]
+[06:18:01] [Server thread/INFO]: Termostato34 has made the advancement [The End?]
+[06:18:02] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[06:18:02] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[06:18:02] [Server thread/INFO]: [InfernalMobs] Detected Entity Spawn: Ender Dragon
+[06:19:51] [Server thread/INFO]: Bumper202 fell from a high place
+[06:19:56] [Server thread/INFO]: Bumper202 issued server command: /back
+[06:20:37] [Server thread/INFO]: skullyxrd was doomed to fall by Ender Dragon
+[06:20:44] [Server thread/INFO]: skullyxrd issued server command: /back
+[06:22:37] [Server thread/INFO]: Termostato34 has made the advancement [Free the End]
+[06:22:38] [Server thread/INFO]: skullyxrd was slain by Enderman
+[06:22:44] [Server thread/INFO]: skullyxrd issued server command: /back
+[06:23:10] [Server thread/INFO]: Bumper202 has reached the goal [The Next Generation]
+[06:23:19] [Server thread/INFO]: Termostato34 has reached the goal [The Next Generation]
+[06:23:22] [Server thread/INFO]: skullyxrd has reached the goal [The Next Generation]
+[06:29:02] [Server thread/INFO]: Termostato34 has made the advancement [Remote Getaway]
+[06:29:04] [Server thread/INFO]: Bumper202 has made the advancement [Remote Getaway]
+[06:29:06] [Server thread/INFO]: skullyxrd has made the advancement [Remote Getaway]
+[06:29:15] [Server thread/INFO]: Bumper202 has made the advancement [The City at the End of the Game]
+[06:29:19] [Server thread/INFO]: Termostato34 has made the advancement [The City at the End of the Game]
+[06:29:24] [Server thread/INFO]: skullyxrd has made the advancement [The City at the End of the Game]
+[06:29:24] [Server thread/INFO]: skullyxrd fell from a high place
+[06:29:30] [Server thread/INFO]: Bumper202 has reached the goal [Sky's the Limit]
+[06:29:33] [Server thread/INFO]: skullyxrd issued server command: /back
+[06:32:38] [Server thread/INFO]: Bumper202 fell from a high place
+[06:32:42] [Server thread/INFO]: Bumper202 issued server command: /back
+[06:34:07] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/67808, uuid='6a6852e9-f2c9-44b1-895c-db5aa480cdbf', l='ServerLevel[world_the_end]', x=-898.26, y=63.19, z=-547.20, cpos=[-57, -35], tl=1841, v=true] died: Infernal Enderman was slain by Termostato34
+[06:34:40] [Server thread/INFO]: skullyxrd hit the ground too hard
+[06:34:45] [Server thread/INFO]: skullyxrd issued server command: /back

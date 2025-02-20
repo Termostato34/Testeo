@@ -465,6 +465,7 @@
       "minecraft:witch": "2025-02-16 05:39:08 +0000",
       "minecraft:wither_skeleton": "2025-02-20 04:20:09 +0000",
       "minecraft:hoglin": "2025-02-20 04:28:21 +0000",
+      "minecraft:shulker": "2025-02-20 06:29:54 +0000",
       "minecraft:piglin": "2025-02-20 04:34:15 +0000",
       "minecraft:enderman": "2025-02-16 05:42:21 +0000",
       "minecraft:magma_cube": "2025-02-20 05:03:48 +0000",
@@ -2021,6 +2022,24 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-02-20 06:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-02-20 06:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-20 06:18:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-02-20 04:37:34 +0000"
@@ -2081,15 +2100,39 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-02-20 06:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-20 04:37:20 +0000"
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-02-20 06:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-02-20 04:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-02-20 06:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-20 06:18:19 +0000"
     },
     "done": true
   },
@@ -2108,6 +2151,12 @@
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-02-20 04:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-20 06:29:30 +0000"
     },
     "done": true
   },
@@ -2138,6 +2187,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-20 04:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-20 06:31:31 +0000"
     },
     "done": true
   },
@@ -2186,6 +2241,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-02-20 04:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-20 06:18:01 +0000"
     },
     "done": true
   },
@@ -2327,6 +2388,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-20 06:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-20 06:18:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-20 04:15:52 +0000"
@@ -2360,6 +2433,12 @@
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2025-02-20 04:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-02-20 06:30:10 +0000"
     },
     "done": true
   },
@@ -2408,6 +2487,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-02-20 04:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-20 06:18:01 +0000"
     },
     "done": true
   },
