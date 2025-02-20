@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1740022985403
+  lastteleport: 1740024006277
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1740023431524
-  login: 1740022964261
+  login: 1740023964593
 money: '0'
 last-account-name: Bumper202
 logoutlocation:
@@ -31,11 +31,11 @@ logoutlocation:
 lastlocation:
   world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
   world-name: world
-  x: -1540.257449661275
-  y: 70.0
-  z: 1051.0133941294414
-  yaw: 2.87005615234375
-  pitch: 7.650078296661377
+  x: -1960.5110260109855
+  y: -8.0
+  z: 1529.4216535585006
+  yaw: 58.58209228515625
+  pitch: 65.39998626708984
 homes:
   home:
     world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6

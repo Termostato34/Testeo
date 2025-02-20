@@ -183,3 +183,17 @@
 [03:50:18] [Async Chat Thread - #2/INFO]: [Not Secure] <Termostato34> q
 [03:50:31] [Server thread/INFO]: Bumper202 lost connection: Disconnected
 [03:50:31] [Server thread/INFO]: Bumper202 left the game
+[03:53:47] [Server thread/INFO]: Termostato34 issued server command: /ping
+[03:55:52] [Server thread/INFO]: Termostato34 fell from a high place
+[03:55:56] [Server thread/INFO]: Termostato34 issued server command: /back
+[03:59:22] [User Authenticator #3/INFO]: UUID of player skullyxrd is 2e842f89-d34b-3777-acdb-eb206ff3ad7e
+[03:59:22] [User Authenticator #3/INFO]: UUID of player Bumper202 is 6f43db09-d6f1-35d4-b106-2625ad5968bd
+[03:59:24] [Server thread/INFO]: Bumper202 joined the game
+[03:59:24] [Server thread/INFO]: Bumper202[/192.168.194.175:56327] logged in with entity id 7428 at ([world]-1961.3799676448132, -8.0, 1530.056283398978)
+[03:59:25] [Server thread/INFO]: skullyxrd joined the game
+[03:59:25] [Server thread/INFO]: skullyxrd[/192.168.194.147:50996] logged in with entity id 7426 at ([world]-1584.4706506866703, 124.56667556341161, 993.3484083583918)
+[03:59:32] [Server thread/INFO]: Bumper202 issued server command: /tpa Termostato34
+[04:00:00] [Server thread/INFO]: Termostato34 issued server command: /home
+[04:00:03] [Server thread/INFO]: Termostato34 issued server command: /homes
+[04:00:06] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
+[04:00:46] [Server thread/INFO]: Termostato34 issued server command: /back
