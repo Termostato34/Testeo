@@ -231,3 +231,21 @@
 [04:27:09] [Server thread/INFO]: Termostato34 issued server command: /back
 [04:32:13] [Server thread/INFO]: skullyxrd burned to death
 [04:32:21] [Server thread/INFO]: skullyxrd issued server command: /back
+[04:34:19] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
+[04:34:26] [Server thread/INFO]: Bumper202 has made the advancement [Oh Shiny]
+[04:34:29] [Server thread/INFO]: Named entity ZombifiedPiglin['Infernal Zombified piglin'/19607, uuid='0f67c335-2f2f-4476-8c2f-c33d9a82630a', l='ServerLevel[world_nether]', x=171.35, y=48.02, z=259.44, cpos=[10, 16], tl=6892, v=true] died: Infernal Zombified piglin was slain by Termostato34
+[04:37:16] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/22184, uuid='1abb676f-638f-4f7e-985c-78f263d2f76a', l='ServerLevel[world_nether]', x=424.87, y=103.54, z=425.49, cpos=[26, 26], tl=776, v=true] died: Infernal Piglin suffocated in a wall
+[04:37:20] [Server thread/INFO]: Bumper202 has made the advancement [Ice Bucket Challenge]
+[04:38:18] [Server thread/INFO]: Named entity ZombifiedPiglin['Infernal Zombified piglin'/22404, uuid='167356e0-42da-4421-9d1b-84e9002af6d4', l='ServerLevel[world_nether]', x=414.82, y=58.49, z=573.74, cpos=[25, 35], tl=1382, v=true] died: Infernal Zombified piglin was slain by Zombified Piglin
+[04:38:32] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
+[04:38:37] [Server thread/INFO]: skullyxrd issued server command: /toa b
+[04:38:43] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
+[04:38:54] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
+[04:38:54] [Server thread/INFO]: skullyxrd has made the advancement [Who is Cutting Onions?]
+[04:38:57] [Server thread/INFO]: skullyxrd has made the advancement [Ice Bucket Challenge]
+[04:39:03] [Server thread/INFO]: Bumper202 has made the advancement [Who is Cutting Onions?]
+[04:40:15] [Server thread/INFO]: Bumper202 has completed the challenge [Hot Tourist Destinations]
+[04:42:00] [Server thread/INFO]: skullyxrd fell from a high place
+[04:42:09] [Server thread/INFO]: skullyxrd issued server command: /back
+[04:42:10] [Async Chat Thread - #4/INFO]: [Not Secure] <Termostato34> si
+[04:42:35] [Server thread/INFO]: Termostato34 issued server command: /homes
