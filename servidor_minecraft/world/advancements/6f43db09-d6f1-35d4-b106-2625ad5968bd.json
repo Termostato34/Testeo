@@ -463,6 +463,7 @@
       "minecraft:skeleton": "2025-02-16 04:35:20 +0000",
       "minecraft:piglin": "2025-02-20 04:34:15 +0000",
       "minecraft:enderman": "2025-02-16 05:42:21 +0000",
+      "minecraft:magma_cube": "2025-02-20 05:03:48 +0000",
       "minecraft:witch": "2025-02-16 05:39:08 +0000",
       "minecraft:spider": "2025-02-16 05:34:26 +0000",
       "minecraft:wither_skeleton": "2025-02-20 04:20:09 +0000",
@@ -1932,6 +1933,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-02-20 04:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-20 05:04:14 +0000"
     },
     "done": true
   },

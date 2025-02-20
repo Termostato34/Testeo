@@ -277,3 +277,21 @@
 [05:02:06] [Server thread/INFO]: skullyxrd was burned to a crisp while fighting Blaze
 [05:02:13] [Server thread/INFO]: skullyxrd issued server command: /back
 [05:02:27] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/30521, uuid='034c0313-ea61-4fb9-afd3-87d944212402', l='ServerLevel[world]', x=-1739.86, y=61.67, z=1492.87, cpos=[-109, 93], tl=6436, v=true] died: Infernal Skeleton suffocated in a wall
+[05:04:06] [Server thread/INFO]: skullyxrd burned to death
+[05:04:14] [Server thread/INFO]: skullyxrd issued server command: /back
+[05:04:17] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/28679, uuid='96b1a09e-548b-4284-8c10-eda7a8d26e01', l='ServerLevel[world_nether]', x=-108.49, y=37.00, z=286.89, cpos=[-7, 17], tl=11409, v=true] died: Infernal Piglin suffocated in a wall
+[05:04:18] [Server thread/INFO]: Termostato34 issued server command: /back
+[05:04:27] [Server thread/INFO]: Bumper202 tried to swim in lava
+[05:04:32] [Server thread/INFO]: Bumper202 issued server command: /back
+[05:04:36] [Server thread/INFO]: skullyxrd issued server command: /homes
+[05:05:56] [Server thread/INFO]: Bumper202 tried to swim in lava
+[05:06:01] [Server thread/INFO]: Bumper202 issued server command: /back
+[05:08:51] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
+[05:08:56] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
+[05:09:38] [Server thread/INFO]: Bumper202 tried to swim in lava
+[05:09:39] [Server thread/INFO]: skullyxrd issued server command: /homes
+[05:09:42] [Server thread/INFO]: Bumper202 issued server command: /back
+[05:09:56] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/22591, uuid='80eb0de7-05e9-48a9-95e9-9aca5798cefc', l='ServerLevel[world_nether]', x=-12.19, y=100.19, z=357.76, cpos=[-1, 22], tl=38469, v=true] died: Infernal Enderman was slain by Termostato34
+[05:10:08] [Server thread/INFO]: Bumper202 burned to death
+[05:10:15] [Server thread/INFO]: Bumper202 issued server command: /back
+[05:13:51] [Server thread/INFO]: Bumper202 issued server command: /homes
