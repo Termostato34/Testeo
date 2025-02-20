@@ -459,6 +459,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-02-20 04:18:40 +0000",
       "minecraft:skeleton": "2025-02-16 04:35:20 +0000",
       "minecraft:enderman": "2025-02-16 05:42:21 +0000",
       "minecraft:witch": "2025-02-16 05:39:08 +0000",
@@ -1677,7 +1678,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-02-16 06:08:28 +0000"
+      "minecraft:soul_sand_valley": "2025-02-16 06:08:28 +0000",
+      "minecraft:nether_wastes": "2025-02-20 04:18:17 +0000",
+      "minecraft:basalt_deltas": "2025-02-20 04:15:52 +0000"
     },
     "done": false
   },
@@ -1912,6 +1915,36 @@
   "minecraft:recipes/combat/wolf_armor": {
     "criteria": {
       "has_armadillo_scute": "2025-02-20 03:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-20 04:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-20 04:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-20 04:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-20 04:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-20 04:15:52 +0000"
     },
     "done": true
   },

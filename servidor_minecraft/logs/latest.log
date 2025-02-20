@@ -209,3 +209,17 @@
 [04:08:01] [Server thread/INFO]: Termostato34 issued server command: /home
 [04:08:02] [Server thread/INFO]: Termostato34 issued server command: /homes
 [04:08:03] [Server thread/INFO]: skullyxrd issued server command: /skins
+[04:14:42] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/13923, uuid='61144129-e892-4ba7-8810-d25840fd99f4', l='ServerLevel[world]', x=-1480.01, y=40.70, z=1094.01, cpos=[-93, 68], tl=1134, v=true] died: Infernal Skeleton suffocated in a wall
+[04:14:43] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
+[04:15:47] [Server thread/INFO]: Bumper202 issued server command: /tpa Termostato34
+[04:15:52] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
+[04:15:52] [Server thread/INFO]: Bumper202 has made the advancement [A Terrible Fortress]
+[04:18:06] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
+[04:18:15] [Server thread/INFO]: Termostato34 issued server command: /back
+[04:18:22] [Server thread/INFO]: Termostato34 issued server command: /back
+[04:19:04] [Server thread/INFO]: Termostato34 was slain by Zombified Piglin
+[04:19:07] [Server thread/INFO]: Termostato34 issued server command: /back
+[04:19:37] [Server thread/INFO]: Termostato34 issued server command: /homes
+[04:20:59] [Server thread/INFO]: Bumper202 has made the advancement [Spooky Scary Skeleton]
+[04:22:13] [Server thread/INFO]: Bumper202 has made the advancement [Into Fire]
+[04:22:17] [Server thread/INFO]: skullyxrd was shot by Skeleton
