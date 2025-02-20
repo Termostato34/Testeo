@@ -29,13 +29,13 @@ logoutlocation:
   yaw: 85.19482421875
   pitch: -83.25000762939453
 lastlocation:
-  world: 4e4cbd36-a35a-4241-b4c2-b278dfa59420
-  world-name: world_nether
-  x: 31.411222214573048
-  y: 33.0
-  z: 338.4996223975023
-  yaw: -138.26040649414062
-  pitch: 61.95010757446289
+  world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
+  world-name: world
+  x: -1567.6726856140367
+  y: 64.16610926093821
+  z: 988.3704480436965
+  yaw: -32.24970626831055
+  pitch: -3.600004196166992
 homes:
   home:
     world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6

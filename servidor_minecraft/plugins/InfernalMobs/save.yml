@@ -286,7 +286,6 @@ d47e8bfd-cbc2-42d5-964d-8250a1a849fd: bullwark,archer,necromancer
 09c4b4a2-a839-48cb-9a6f-99c3ee3d45fe: poisonous,necromancer,archer,storm
 d6ea0e78-2162-425b-b4ae-4b01595dc33d: tosser,firework,archer,berserk,explode
 375e47ba-160d-4387-8a47-02b8b2dd1f15: ender,archer,ghastly
-635eab53-f426-468c-9321-f2da1f5ac8b6: ender,vengeance,mounted,ghost
 0b05782e-de1e-4e1d-a73e-360e25116aac: bullwark,mama,sprint,ender,lifesteal,rust
 4e8d4b44-52c6-4298-bceb-091dd58166f9: firework,storm,rust,ghastly,potions
 64034707-1b51-419e-860f-b0f214d49e8b: tosser,quicksand,ghost,firework,weakness
@@ -301,7 +300,6 @@ d164c0c1-25f5-4e1c-9380-1e225e800bf8: explode,firework,weakness,cloaked,rust,end
 ec7a944c-7b6e-4130-a1e0-2e4b89d66fc2: armoured,withering,cloaked,tosser
 c07aec70-16f8-42b1-9b3a-30f5eea83147: sapper,morph,armoured
 0b12ba89-c064-4357-8216-4cc2fc51d408: gravity,mounted,armoured,morph,potions
-bc932698-31b9-4b14-bc22-1cf01a7f4e56: 1up,ghastly,ghost,tosser
 c406e50a-ac72-4edf-b7e8-870b5f4997f7: mama,poisonous,ender
 7110616d-6a32-4bf6-ac11-c71860226627: ender,poisonous,gravity,thief,ghastly,sprint,cloaked
 8ef7f42b-2e99-45ac-95f0-4a0ee5a48b5a: flying,mama,ghost
@@ -309,7 +307,6 @@ c406e50a-ac72-4edf-b7e8-870b5f4997f7: mama,poisonous,ender
 5562ddbc-fe1f-45b3-a339-3b7fe140510e: berserk,mounted,tosser,necromancer,sprint,ender
 87f3c593-5042-4dbb-a630-77cf4f7b585c: morph,explode,potions,mama,sprint
 793103a8-cba8-4684-8650-ce7da306ccb8: poisonous,mounted,ender,thief,morph,webber,cloaked
-c8019ac5-fe83-4522-88d3-300caab9fcfb: lifesteal,mounted,withering,blinding,quicksand
 dde19e23-8aff-4340-a803-20a8695a906b: mounted,sapper,blinding,thief,gravity,ghastly,berserk
 b4c28a00-9188-4903-835e-7c5b05aadeb7: sapper,blinding,mounted,molten,storm
 ae0aa198-8aae-4478-9550-9e053c57d184: explode,1up,ghastly,armoured,potions,molten,poisonous
@@ -369,3 +366,7 @@ b0a17380-39b3-4335-ab62-4fab01442a6e: bullwark,tosser,necromancer,1up
 3b02a604-cda6-44a3-95e0-c238cd548399: firework,thief,poisonous,vengeance,necromancer,explode
 bc4a5a16-f376-4d50-910b-4a66c407df4c: ghost,storm,mounted,cloaked
 b63c6ac4-847d-4c3c-ae3e-3f24c4b3febe: molten,lifesteal,mama,vengeance,weakness,poisonous
+4af9d908-1a66-43f8-814c-be67c4d6b613: ghastly,1up,firework,storm,ghost
+ee8238ee-5f22-4478-9eaa-a3202d5d111a: necromancer,withering,cloaked
+7b8c1d04-5a94-48a5-9b71-78cfbd3bc12c: sapper,cloaked,flying,withering,ender,thief,mounted
+7ad3b432-a804-45c9-b282-7098a69e0eac: ghastly,sapper,bullwark,storm
