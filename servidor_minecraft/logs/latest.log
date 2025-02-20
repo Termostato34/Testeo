@@ -249,3 +249,21 @@
 [04:42:09] [Server thread/INFO]: skullyxrd issued server command: /back
 [04:42:10] [Async Chat Thread - #4/INFO]: [Not Secure] <Termostato34> si
 [04:42:35] [Server thread/INFO]: Termostato34 issued server command: /homes
+[04:43:21] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
+[04:43:23] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
+[04:44:12] [Server thread/INFO]: skullyxrd issued server command: /home
+[04:44:14] [Server thread/INFO]: Termostato34 issued server command: /back
+[04:44:17] [Server thread/INFO]: skullyxrd issued server command: /homes
+[04:44:35] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
+[04:44:37] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
+[04:46:43] [Server thread/INFO]: Bumper202 tried to swim in lava
+[04:46:49] [Server thread/INFO]: Bumper202 issued server command: /back
+[04:47:15] [Server thread/INFO]: Termostato34 has made the advancement [This Boat Has Legs]
+[04:47:22] [Server thread/INFO]: skullyxrd issued server command: /back
+[04:48:29] [Server thread/INFO]: Termostato34 burned to death
+[04:48:30] [Server thread/INFO]: Attempt to teleport removed player Termostato34 restricted
+[04:48:33] [Server thread/INFO]: Termostato34 issued server command: /back
+[04:49:25] [Server thread/INFO]: Termostato34 issued server command: /back
+[04:49:27] [Server thread/INFO]: Termostato34 issued server command: /back
+[04:49:39] [Server thread/INFO]: Termostato34 issued server command: /gamemode creative
+[04:50:04] [Server thread/INFO]: Termostato34 issued server command: /gamemode survival
