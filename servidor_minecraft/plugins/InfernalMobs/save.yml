@@ -303,8 +303,6 @@ c07aec70-16f8-42b1-9b3a-30f5eea83147: sapper,morph,armoured
 0b12ba89-c064-4357-8216-4cc2fc51d408: gravity,mounted,armoured,morph,potions
 bc932698-31b9-4b14-bc22-1cf01a7f4e56: 1up,ghastly,ghost,tosser
 c406e50a-ac72-4edf-b7e8-870b5f4997f7: mama,poisonous,ender
-00f75d3f-a48d-4860-9dc2-b6947870d66b: tosser,mama,quicksand,thief,gravity
-1cb660f8-71a8-4683-8e1d-8119372ccfea: gravity,mounted,armoured,morph,potions
 7110616d-6a32-4bf6-ac11-c71860226627: ender,poisonous,gravity,thief,ghastly,sprint,cloaked
 8ef7f42b-2e99-45ac-95f0-4a0ee5a48b5a: flying,mama,ghost
 0deb830c-d545-4083-81db-93609afd669f: sapper,weakness,armoured,archer
@@ -312,3 +310,18 @@ c406e50a-ac72-4edf-b7e8-870b5f4997f7: mama,poisonous,ender
 87f3c593-5042-4dbb-a630-77cf4f7b585c: morph,explode,potions,mama,sprint
 793103a8-cba8-4684-8650-ce7da306ccb8: poisonous,mounted,ender,thief,morph,webber,cloaked
 c8019ac5-fe83-4522-88d3-300caab9fcfb: lifesteal,mounted,withering,blinding,quicksand
+dde19e23-8aff-4340-a803-20a8695a906b: mounted,sapper,blinding,thief,gravity,ghastly,berserk
+034c0313-ea61-4fb9-afd3-87d944212402: sapper,bullwark,quicksand,mounted,flying,1up
+b4c28a00-9188-4903-835e-7c5b05aadeb7: sapper,blinding,mounted,molten,storm
+ae0aa198-8aae-4478-9550-9e053c57d184: explode,1up,ghastly,armoured,potions,molten,poisonous
+f308b705-80bc-4cac-8fca-7ab46beb1aa2: explode,morph,vengeance,weakness,mama,bullwark
+fb27a8bb-da5b-4e47-a235-1a79f6926645: flying,ghastly,firework,poisonous,storm,explode,archer
+f07f0d53-0801-4b84-8de6-949d9ce75d51: bullwark,firework,flying,lifesteal,blinding,vengeance,quicksand
+473669aa-b824-4dbe-88b5-a1bdf1d4cd70: tosser,berserk,lifesteal,cloaked
+434fc7fd-6094-4443-9beb-1d281c6a211c: molten,firework,cloaked,flying,webber,mounted,storm
+1e674089-9b8a-41b0-a650-557ddbc67fda: potions,storm,ender,poisonous,archer,armoured,bullwark
+b8257e1b-09b2-4f6a-9ac3-653cb46d7370: weakness,poisonous,explode
+733a3883-39f5-4645-9456-202e74997244: mounted,quicksand,ender,berserk,blinding
+0f67c335-2f2f-4476-8c2f-c33d9a82630a: archer,explode,ender,sprint,ghost
+92292ec6-b85a-40df-bade-dbd32fe0e5ca: webber,mama,morph
+61d76f2c-33ab-4ad1-ba73-e8f5b73947bd: flying,explode,ender,gravity
