@@ -419,7 +419,8 @@
       "bread": "2025-02-16 06:28:27 +0000",
       "cooked_mutton": "2025-02-16 05:26:36 +0000",
       "cooked_beef": "2025-02-16 05:49:36 +0000",
-      "melon_slice": "2025-02-16 08:19:29 +0000"
+      "melon_slice": "2025-02-16 08:19:29 +0000",
+      "cooked_salmon": "2025-02-20 05:50:42 +0000"
     },
     "done": false
   },
@@ -1714,6 +1715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-20 05:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-02-20 05:08:04 +0000"
@@ -1750,6 +1757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-20 05:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-02-20 04:38:57 +0000"
@@ -1768,6 +1781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-20 05:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-02-20 04:12:13 +0000"
@@ -1777,6 +1796,12 @@
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-20 04:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-20 05:54:03 +0000"
     },
     "done": true
   },
