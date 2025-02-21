@@ -546,7 +546,6 @@ a2663aab-1baa-4bc3-b52c-8ad2a5f9e903: ender,sapper,webber,mounted,archer,quicksa
 1107b9ed-26cd-4339-9d08-ab0a4688c79a: archer,quicksand,withering,ender,mama
 365b94d3-486c-461b-b8fa-9eba9d585bfa: potions,storm,weakness,flying,gravity,sprint,ender
 035d5c30-3853-47d2-b186-773116f53fb0: mounted,morph,1up,potions,flying,storm,firework
-692ce1e5-037a-47d2-a306-c8e346e26931: ghastly,weakness,rust
 c920e8cf-8147-4c0b-aeda-1ecc99fa3acf: poisonous,webber,armoured,thief,cloaked
 ba181356-d88f-4954-8985-79489b6cd672: poisonous,weakness,archer,webber,molten
 54cc55ee-5900-4ae7-825f-f1c8dee1d2b4: berserk,quicksand,mounted,armoured,morph
@@ -554,3 +553,18 @@ ba181356-d88f-4954-8985-79489b6cd672: poisonous,weakness,archer,webber,molten
 e82ac31e-0540-4ec0-81b3-bbe1955a1d34: armoured,mounted,morph,flying,1up,ghost,thief
 a2078984-6366-408b-98aa-21ed5d5e8c42: thief,archer,armoured,bullwark
 571569e3-d0be-42d8-97da-3a417f8bf7d3: necromancer,quicksand,rust,flying,berserk
+d996e794-5075-4865-8f9f-06e9a7bd50fe: molten,morph,thief,ghastly,necromancer,ender
+3b4908d0-ddb1-44ce-b116-ee6cc651b7a0: poisonous,rust,morph,withering
+77aa259f-db79-434c-99d9-8198196ecb7a: poisonous,flying,molten,ender,withering,necromancer
+b54b0fcc-40d0-46b5-8047-923cfe5651fc: ender,potions,thief,cloaked
+5243ee49-1633-4c49-ad83-2d28cd3aff17: quicksand,berserk,archer,lifesteal
+fad39435-babd-445c-ae9f-6cad5a8e83d7: morph,ender,mama
+9a699b18-230f-45d2-9a5b-793898f91f0d: mounted,sprint,ender,molten,mama,morph,lifesteal
+8b408bd1-7a2e-4bd9-bb69-9301be716f57: sapper,lifesteal,firework,gravity
+eb0fa1ab-7adf-477f-b78f-b8a7b94ce6f0: weakness,lifesteal,archer,flying,mama,tosser
+ecdd1aa4-9796-4903-a615-de81225872c6: cloaked,ghost,lifesteal,molten,armoured,vengeance
+4bdff9d4-2690-4fea-9ad8-af2b4488fd72: weakness,sapper,poisonous,cloaked,necromancer,molten
+1e1f507d-7440-4f43-a117-7994b64e6887: lifesteal,bullwark,gravity,ghastly,mama
+b45a5766-e720-4360-a319-9ed5d23b64ff: firework,sapper,molten,cloaked,explode
+113ee982-79e4-4c93-bbc7-8a01734be858: thief,storm,mounted,necromancer
+d48da032-5668-4f92-b14c-40c2ef115a87: ghastly,mama,explode,sprint,mounted,poisonous

@@ -258,3 +258,23 @@
 [02:30:30] [Async Chat Thread - #6/INFO]: [Not Secure] <Termostato34> mi perrito vino a revisar si estabamos jugando y se fue
 [02:30:58] [Async Chat Thread - #6/INFO]: [Not Secure] <Bumper202> SOLO CONFIRMÓ
 [02:31:31] [Server thread/WARN]: Termostato34 moved too quickly! 6.825740437498098,-1.999999999999993,7.566302020563569
+[02:32:17] [Server thread/INFO]: Bumper202 lost connection: Disconnected
+[02:32:17] [Server thread/INFO]: Bumper202 left the game
+[02:35:30] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
+[02:35:30] [Server thread/INFO]: [InfernalMobs] Detected Entity Spawn: Ender Dragon
+[02:35:32] [Server thread/INFO]: [InfernalMobs] Detected Entity Spawn: Ender Dragon
+[02:35:32] [Server thread/INFO]: [InfernalMobs] Detected Entity Spawn: Ender Dragon
+[02:35:32] [Server thread/INFO]: [InfernalMobs] Detected Entity Spawn: Ender Dragon
+[02:35:57] [Server thread/INFO]: Termostato34 issued server command: /gamemode creative
+[02:36:10] [Server thread/INFO]: Termostato34 issued server command: /gamemode survival
+[02:36:24] [Server thread/INFO]: [InfernalMobs] Detected Entity Spawn: Ender Dragon
+[02:36:24] [Server thread/INFO]: [InfernalMobs] Detected Entity Spawn: Ender Dragon
+[02:36:24] [Server thread/INFO]: [InfernalMobs] Detected Entity Spawn: Ender Dragon
+[02:36:31] [Server thread/INFO]: Termostato34 issued server command: /gamemode creative
+[02:36:42] [Server thread/INFO]: Named entity EnderDragon['Infernal Ender dragon'/6894, uuid='431b31ed-4379-48ee-bd24-4601d414b1b2', l='ServerLevel[world_the_end]', x=-2958.69, y=59.00, z=173.70, cpos=[-185, 10], tl=1441, v=true] died: Infernal Ender dragon was slain by Termostato34
+[02:36:46] [Server thread/INFO]: Termostato34 issued server command: /gamemode survival
+[02:37:07] [Server thread/INFO]: Termostato34 issued server command: /gamemode creative
+[02:37:20] [Server thread/INFO]: Termostato34 issued server command: /gamemode survival
+[02:41:07] [Server thread/INFO]: Termostato34 issued server command: /homes
+[02:41:14] [Server thread/INFO]: Termostato34 issued server command: /back
+[02:42:22] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs cspawn FROG

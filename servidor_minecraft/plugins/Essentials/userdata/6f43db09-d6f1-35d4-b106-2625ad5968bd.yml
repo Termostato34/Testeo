@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740023431524
+  logout: 1740105137653
   login: 1740103831832
 money: '0'
 last-account-name: Bumper202
 logoutlocation:
   world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
   world-name: world
-  x: -1961.3799676448132
-  y: -8.0
-  z: 1530.056283398978
-  yaw: -48.9677734375
-  pitch: -37.72807693481445
+  x: -1809.300000011921
+  y: 65.0
+  z: 708.3000000119209
+  yaw: -18.29547119140625
+  pitch: 32.25001907348633
 lastlocation:
   world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
   world-name: world
