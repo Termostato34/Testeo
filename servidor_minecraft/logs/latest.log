@@ -437,3 +437,36 @@
 [02:51:48] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8884, uuid='69fef421-4231-44fc-81d0-d5eea1f1e43c', l='ServerLevel[world_the_end]', x=-2690.00, y=64.76, z=239.09, cpos=[-169, 14], tl=47, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
 [02:51:58] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
 [02:52:33] [Server thread/INFO]: Termostato34 issued server command: /gamemode creative
+[02:53:26] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs kill 1
+[02:53:30] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:53:32] [Server thread/INFO]: Termostato34 issued server command: /gamemode survival
+[02:53:48] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9029, uuid='04489dd0-9dcf-4360-96d4-cb5c64b5e70e', l='ServerLevel[world_the_end]', x=-2653.03, y=65.00, z=223.28, cpos=[-166, 13], tl=366, v=true] died: Infernal Frog was slain by Termostato34
+[02:57:28] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/9055, uuid='d210bbd9-6aed-42de-be71-d7b7852f8c7b', l='ServerLevel[world_the_end]', x=-2695.58, y=63.52, z=212.55, cpos=[-169, 13], tl=4450, v=true] died: Infernal Enderman was slain by Termostato34 using [Canadian Axe]
+[02:57:41] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:57:54] [Server thread/INFO]: Termostato34 issued server command: /heal Termostato34
+[02:58:04] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9403, uuid='676d0d38-2b63-4e6b-b3b4-a0b05f6ef92e', l='ServerLevel[world_the_end]', x=-2703.64, y=63.80, z=228.09, cpos=[-169, 14], tl=478, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
+[02:58:14] [Server thread/INFO]: Termostato34 issued server command: /heal Termostato34
+[02:58:17] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:58:22] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9451, uuid='aa54f747-7b5d-4ef3-a603-1fa86fdc726d', l='ServerLevel[world_the_end]', x=-2699.80, y=63.00, z=223.57, cpos=[-169, 13], tl=102, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
+[02:58:35] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:58:37] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9478, uuid='388a2e3d-7833-45b8-b6e7-8cf308a10919', l='ServerLevel[world_the_end]', x=-2706.39, y=63.42, z=211.28, cpos=[-170, 13], tl=49, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
+[02:58:47] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:58:55] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9499, uuid='f53877e7-5c17-42f8-8d68-36f654e1b09f', l='ServerLevel[world_the_end]', x=-2700.63, y=63.00, z=217.56, cpos=[-169, 13], tl=168, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
+[02:59:02] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:59:11] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9524, uuid='3a195822-3dc0-4e0f-aa44-713fd8b7b424', l='ServerLevel[world_the_end]', x=-2717.17, y=61.00, z=215.67, cpos=[-170, 13], tl=168, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
+[02:59:58] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[03:00:04] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9595, uuid='aedb38db-d03b-46ab-b06b-d519774c51be', l='ServerLevel[world_the_end]', x=-2723.51, y=62.00, z=228.10, cpos=[-171, 14], tl=107, v=true] died: Infernal Frog was slain by Termostato34 using [Wither Sword]
+[03:00:11] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[03:00:22] [Server thread/INFO]: Termostato34 has reached the goal [Postmortal]
+[03:00:29] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9641, uuid='b94dc985-35dc-43a7-9769-3b6021835c78', l='ServerLevel[world_the_end]', x=-2737.13, y=60.00, z=258.81, cpos=[-172, 16], tl=366, v=true] died: Infernal Frog was slain by Termostato34 using [Wither Sword]
+[03:00:36] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[03:00:39] [Server thread/WARN]: Termostato34 moved too quickly! -7.388104877774822,0.0,7.988473462844809
+[03:00:45] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9709, uuid='0d59f582-88e2-4332-a318-d53f34744882', l='ServerLevel[world_the_end]', x=-2754.08, y=62.00, z=259.41, cpos=[-173, 16], tl=171, v=true] died: Infernal Frog was slain by Termostato34 using [Wither Sword]
+[03:01:00] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[03:01:20] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9735, uuid='9a7781ce-3660-4b74-803f-f7803200677c', l='ServerLevel[world_the_end]', x=-2737.55, y=57.00, z=295.44, cpos=[-172, 18], tl=400, v=true] died: Infernal Frog was slain by Termostato34 using [Wither Sword]
+[03:01:31] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[03:01:48] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9776, uuid='f9c6610f-6de5-40ec-80aa-cd0bf699edeb', l='ServerLevel[world_the_end]', x=-2708.22, y=46.00, z=293.54, cpos=[-170, 18], tl=343, v=true] died: Infernal Frog was slain by Termostato34 using [Wither Sword]
+[03:02:15] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[03:02:21] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9835, uuid='f54b5e06-dbad-45ae-a620-b8cdbc24f4dd', l='ServerLevel[world_the_end]', x=-2738.47, y=59.00, z=301.52, cpos=[-172, 18], tl=109, v=true] died: Infernal Frog was slain by Termostato34 using [Wither Sword]
+[03:02:27] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[03:02:34] [Server thread/INFO]: Named entity Frog['Infernal Frog'/9858, uuid='760cc57d-c20a-4870-a111-f4333064d4e3', l='ServerLevel[world_the_end]', x=-2741.70, y=62.00, z=305.82, cpos=[-172, 19], tl=136, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]

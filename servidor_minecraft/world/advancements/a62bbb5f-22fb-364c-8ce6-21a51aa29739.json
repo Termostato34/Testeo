@@ -378,8 +378,10 @@
       "apple": "2025-02-16 04:23:36 +0000",
       "golden_apple": "2025-02-16 08:02:54 +0000",
       "bread": "2025-02-16 06:21:02 +0000",
+      "honey_bottle": "2025-02-21 02:52:23 +0000",
       "rotten_flesh": "2025-02-20 04:39:42 +0000",
       "enchanted_golden_apple": "2025-02-16 08:03:12 +0000",
+      "glow_berries": "2025-02-21 02:49:46 +0000",
       "cooked_beef": "2025-02-16 05:20:15 +0000",
       "chorus_fruit": "2025-02-20 06:56:47 +0000",
       "beef": "2025-02-16 05:16:38 +0000",
@@ -2627,6 +2629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-21 02:51:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-02-21 02:20:36 +0000"
@@ -2636,6 +2644,12 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-02-21 02:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-02-21 02:59:11 +0000"
     },
     "done": true
   },
