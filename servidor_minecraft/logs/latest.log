@@ -1,587 +1,215 @@
-[03:31:02] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[03:31:02] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[03:31:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:31:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
-[03:31:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
+[02:02:05] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[02:02:05] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[02:02:06] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:02:09] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[02:02:09] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
  - BloodMoon (0.8.1), DeathChest (2.2.7), EnchantsSquared (2.5.11), Essentials (2.20.1), GWarp ([2.13.0.2]), InfernalMobs (6.8), LuckPerms (5.4.154), SkinsRestorer (15.5.2), TabTPS (1.3.25), TreeCapitator (7.1)
-[03:31:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:31:13] [ServerMain/INFO]: Loaded 1290 recipes
-[03:31:13] [ServerMain/INFO]: Loaded 1399 advancements
-[03:31:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[03:31:14] [Server thread/INFO]: Loading properties
-[03:31:14] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[03:31:15] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[03:31:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:31:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:31:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[03:31:17] [Server thread/INFO]: Default game type: SURVIVAL
-[03:31:17] [Server thread/INFO]: Generating keypair
-[03:31:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:31:17] [Server thread/INFO]: Using epoll channel type
-[03:31:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:31:17] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:31:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
-[03:31:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
-[03:31:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
-[03:31:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
-[03:31:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
-[03:31:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
-[03:31:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
-[03:31:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
-[03:31:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
-[03:31:19] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
-[03:31:20] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
-[03:31:20] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.154
-[03:31:20] [Server thread/INFO]: [TabTPS] Loading server plugin TabTPS v1.3.25
-[03:31:20] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[03:31:20] [Server thread/INFO]: [GWarp] Loading server plugin GWarp v[2.13.0.2]
-[03:31:20] [Server thread/INFO]: [EnchantsSquared] Loading server plugin EnchantsSquared v2.5.11
-[03:31:21] [Server thread/INFO]: [TreeCapitator] Loading server plugin TreeCapitator v7.1
-[03:31:21] [Server thread/INFO]: [BloodMoon] Loading server plugin BloodMoon v0.8.1
-[03:31:21] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v2.2.7
-[03:31:21] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[03:31:21] [Server thread/INFO]: [InfernalMobs] Loading server plugin InfernalMobs v6.8
-[03:31:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:31:21] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.154
-[03:31:21] [Server thread/INFO]:         __    
-[03:31:21] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.154
-[03:31:21] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[03:31:21] [Server thread/INFO]: 
-[03:31:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[03:31:21] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[03:31:22] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[03:31:22] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[03:31:22] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1759ms)
-[03:31:22] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[03:31:24] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[03:31:25] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[03:31:27] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:31:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:31:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:31:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:31:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:31:27] [Server thread/INFO]: Preparing level "world"
-[03:31:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:31:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:31:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:31:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[03:31:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:31:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:31:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:31:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[03:31:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[03:31:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[03:31:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:31:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:31:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:31:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:31:31] [Server thread/INFO]: Time elapsed: 2548 ms
-[03:31:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:31:31] [Server thread/INFO]: Time elapsed: 414 ms
-[03:31:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:31:31] [Server thread/INFO]: Time elapsed: 310 ms
-[03:31:31] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.3.25
-[03:31:35] [Server thread/INFO]: [GWarp] Enabling GWarp v[2.13.0.2]
-[03:31:35] [Server thread/INFO]: [GWarp] The Plugin was successfully enabled.
-[03:31:36] [Server thread/INFO]: [EnchantsSquared] Enabling EnchantsSquared v2.5.11
-[03:31:37] [Server thread/INFO]: [TreeCapitator] Enabling TreeCapitator v7.1
-[03:31:37] [Server thread/INFO]: [TreeCapitator] WorldGuard not found. Maybe WorldGuard or this plugin are not up to date?
-[03:31:37] [Server thread/INFO]: [TreeCapitator] An update is available, use /tc update to update to the lastest version (from v7.1 to v6.4.4)
-[03:31:37] [Server thread/INFO]: [TreeCapitator] Logs from JSON: [OAK_LOG, OAK_LOG, OAK_LOG, OAK_LOG]
-[03:31:37] [Server thread/INFO]: [TreeCapitator] Leaves from JSON: [OAK_LEAVES, OAK_LEAVES, OAK_LEAVES, OAK_LEAVES]
-[03:31:37] [Server thread/INFO]: [TreeCapitator] Enabled
-[03:31:37] [Server thread/INFO]: [BloodMoon] Enabling BloodMoon v0.8.1
-[03:31:38] [Server thread/INFO]: [BloodMoon] This plugin is still in its infancy. If you encounter a bug, please report it to https://www.spigotmc.org/threads/bloodmoon.412741/
-[03:31:38] [Server thread/INFO]: [DeathChest] Enabling DeathChest v2.2.7
-[03:31:38] [Server thread/INFO]: [DeathChest] 1 death chests loaded in world "world"
-[03:31:38] [Server thread/INFO]: [DeathChest]   Of these 1 have expired
-[03:31:38] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
-[03:31:38] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
-[03:31:38] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
-[03:31:38] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
-[03:31:39] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[03:31:39] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[03:31:41] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[03:31:41] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[03:31:42] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[03:31:42] [Server thread/INFO]: [Essentials] Using locale en
-[03:31:42] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[03:31:42] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[03:31:42] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[03:31:42] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[03:31:42] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[03:31:42] [Server thread/INFO]: [InfernalMobs] Enabling InfernalMobs v6.8
-[03:31:42] [Server thread/INFO]: [InfernalMobs] Registered Events.
-[03:31:43] [Server thread/INFO]: [spark] Starting background profiler...
-[03:31:43] [Server thread/INFO]: Done preparing level "world" (16.119s)
-[03:31:43] [Server thread/INFO]: Running delayed init tasks
-[03:31:43] [Craft Scheduler Thread - 0 - Essentials/INFO]: [Essentials] Fetching version information...
-[03:31:44] [Server thread/INFO]: Done (42.703s)! For help, type "help"
-[03:31:44] [Server thread/INFO]: Timings Reset
-[03:31:44] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] There is an update available for TabTPS!
-[03:31:44] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] This server is running version v1.3.25, which is 1 versions outdated.
-[03:31:44] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] Download the latest version, v1.3.26 from GitHub at the link below:
-[03:31:44] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] https://github.com/jpenilla/TabTPS/releases/tag/v1.3.26
-[03:31:47] [User Authenticator #0/INFO]: UUID of player Termostato34 is a62bbb5f-22fb-364c-8ce6-21a51aa29739
-[03:31:48] [Server thread/INFO]: Termostato34 joined the game
-[03:31:49] [Server thread/INFO]: Termostato34[/192.168.194.50:54868] logged in with entity id 30 at ([world]-1597.1779165989196, 63.0, 918.4578975463093)
-[03:34:49] [Server thread/INFO]: Termostato34 issued server command: /lp
-[03:34:59] [Server thread/INFO]: Termostato34 issued server command: /lp user Termostato34
-[03:35:03] [Server thread/INFO]: Termostato34 issued server command: /lp user Termostato34 info
-[03:38:46] [User Authenticator #1/INFO]: UUID of player Bumper202 is 6f43db09-d6f1-35d4-b106-2625ad5968bd
-[03:38:48] [Server thread/INFO]: Bumper202 joined the game
-[03:38:48] [Server thread/INFO]: Bumper202[/192.168.194.175:55259] logged in with entity id 1400 at ([world]-1565.2806200978687, 67.0, 1122.3912516304695)
-[03:39:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> hola
-[03:39:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> preciosa
-[03:39:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> te amo
-[03:39:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> como es?
-[03:40:01] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> Termostato34
-[03:40:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> que hacemos?
-[03:40:28] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
-[03:40:52] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[03:42:01] [Server thread/INFO]: Bumper202 lost connection: Disconnected
-[03:42:01] [Server thread/INFO]: Bumper202 left the game
-[03:42:42] [User Authenticator #2/INFO]: UUID of player Bumper202 is 6f43db09-d6f1-35d4-b106-2625ad5968bd
-[03:42:44] [Server thread/INFO]: Bumper202 joined the game
-[03:42:44] [Server thread/INFO]: Bumper202[/192.168.194.175:55473] logged in with entity id 2384 at ([world]-1555.2555262807732, 70.0, 1032.845155225275)
-[03:43:03] [Server thread/INFO]: Bumper202 issued server command: /home
-[03:43:05] [Server thread/INFO]: Bumper202 issued server command: /homes
-[03:44:35] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/2285, uuid='8bf5af1e-91f4-438a-ac02-515f53e15325', l='ServerLevel[world]', x=-1576.48, y=62.00, z=1475.41, cpos=[-99, 92], tl=2787, v=true] died: Infernal Zombie was slain by Termostato34
-[03:45:13] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
-[03:45:32] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[03:47:07] [Server thread/INFO]: Termostato34 issued server command: /echest
-[03:49:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Termostato34> y el gabriel?
-[03:49:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Bumper202> no se está pudiendo conectar no spe por qué?
-[03:50:01] [Async Chat Thread - #2/INFO]: [Not Secure] <Termostato34> tipico de estudiante de la nacional
-[03:50:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Bumper202> eeeey
-[03:50:18] [Async Chat Thread - #2/INFO]: [Not Secure] <Termostato34> q
-[03:50:31] [Server thread/INFO]: Bumper202 lost connection: Disconnected
-[03:50:31] [Server thread/INFO]: Bumper202 left the game
-[03:53:47] [Server thread/INFO]: Termostato34 issued server command: /ping
-[03:55:52] [Server thread/INFO]: Termostato34 fell from a high place
-[03:55:56] [Server thread/INFO]: Termostato34 issued server command: /back
-[03:59:22] [User Authenticator #3/INFO]: UUID of player skullyxrd is 2e842f89-d34b-3777-acdb-eb206ff3ad7e
-[03:59:22] [User Authenticator #3/INFO]: UUID of player Bumper202 is 6f43db09-d6f1-35d4-b106-2625ad5968bd
-[03:59:24] [Server thread/INFO]: Bumper202 joined the game
-[03:59:24] [Server thread/INFO]: Bumper202[/192.168.194.175:56327] logged in with entity id 7428 at ([world]-1961.3799676448132, -8.0, 1530.056283398978)
-[03:59:25] [Server thread/INFO]: skullyxrd joined the game
-[03:59:25] [Server thread/INFO]: skullyxrd[/192.168.194.147:50996] logged in with entity id 7426 at ([world]-1584.4706506866703, 124.56667556341161, 993.3484083583918)
-[03:59:32] [Server thread/INFO]: Bumper202 issued server command: /tpa Termostato34
-[04:00:00] [Server thread/INFO]: Termostato34 issued server command: /home
-[04:00:03] [Server thread/INFO]: Termostato34 issued server command: /homes
-[04:00:06] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
-[04:00:46] [Server thread/INFO]: Termostato34 issued server command: /back
-[04:02:53] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
-[04:05:19] [Server thread/INFO]: skullyxrd issued server command: /skin
-[04:05:21] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/8265, uuid='3fb1028b-bc0c-4c39-979b-ece45f296371', l='ServerLevel[world]', x=-1628.78, y=91.67, z=1030.84, cpos=[-102, 64], tl=5232, v=true] died: Infernal Skeleton suffocated in a wall
-[04:05:27] [Server thread/INFO]: Bumper202 issued server command: /tpa Termostato34
-[04:05:30] [Server thread/INFO]: skullyxrd issued server command: /skins
-[04:05:32] [Server thread/INFO]: Termostato34 issued server command: /Tpaccept
-[04:05:33] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:05:39] [Server thread/INFO]: Bumper202 issued server command: /skin polar
-[04:05:39] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
-[04:08:01] [Server thread/INFO]: Termostato34 issued server command: /home
-[04:08:02] [Server thread/INFO]: Termostato34 issued server command: /homes
-[04:08:03] [Server thread/INFO]: skullyxrd issued server command: /skins
-[04:14:42] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/13923, uuid='61144129-e892-4ba7-8810-d25840fd99f4', l='ServerLevel[world]', x=-1480.01, y=40.70, z=1094.01, cpos=[-93, 68], tl=1134, v=true] died: Infernal Skeleton suffocated in a wall
-[04:14:43] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[04:15:47] [Server thread/INFO]: Bumper202 issued server command: /tpa Termostato34
-[04:15:52] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
-[04:15:52] [Server thread/INFO]: Bumper202 has made the advancement [A Terrible Fortress]
-[04:18:06] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
-[04:18:15] [Server thread/INFO]: Termostato34 issued server command: /back
-[04:18:22] [Server thread/INFO]: Termostato34 issued server command: /back
-[04:19:04] [Server thread/INFO]: Termostato34 was slain by Zombified Piglin
-[04:19:07] [Server thread/INFO]: Termostato34 issued server command: /back
-[04:19:37] [Server thread/INFO]: Termostato34 issued server command: /homes
-[04:20:59] [Server thread/INFO]: Bumper202 has made the advancement [Spooky Scary Skeleton]
-[04:22:13] [Server thread/INFO]: Bumper202 has made the advancement [Into Fire]
-[04:22:17] [Server thread/INFO]: skullyxrd was shot by Skeleton
-[04:24:38] [Server thread/INFO]: Termostato34 issued server command: /back
-[04:24:45] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
-[04:24:56] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[04:26:35] [Server thread/INFO]: Termostato34 has completed the challenge [Hot Tourist Destinations]
-[04:27:06] [Server thread/INFO]: Termostato34 was doomed to fall
-[04:27:09] [Server thread/INFO]: Termostato34 issued server command: /back
-[04:32:13] [Server thread/INFO]: skullyxrd burned to death
-[04:32:21] [Server thread/INFO]: skullyxrd issued server command: /back
-[04:34:19] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
-[04:34:26] [Server thread/INFO]: Bumper202 has made the advancement [Oh Shiny]
-[04:34:29] [Server thread/INFO]: Named entity ZombifiedPiglin['Infernal Zombified piglin'/19607, uuid='0f67c335-2f2f-4476-8c2f-c33d9a82630a', l='ServerLevel[world_nether]', x=171.35, y=48.02, z=259.44, cpos=[10, 16], tl=6892, v=true] died: Infernal Zombified piglin was slain by Termostato34
-[04:37:16] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/22184, uuid='1abb676f-638f-4f7e-985c-78f263d2f76a', l='ServerLevel[world_nether]', x=424.87, y=103.54, z=425.49, cpos=[26, 26], tl=776, v=true] died: Infernal Piglin suffocated in a wall
-[04:37:20] [Server thread/INFO]: Bumper202 has made the advancement [Ice Bucket Challenge]
-[04:38:18] [Server thread/INFO]: Named entity ZombifiedPiglin['Infernal Zombified piglin'/22404, uuid='167356e0-42da-4421-9d1b-84e9002af6d4', l='ServerLevel[world_nether]', x=414.82, y=58.49, z=573.74, cpos=[25, 35], tl=1382, v=true] died: Infernal Zombified piglin was slain by Zombified Piglin
-[04:38:32] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
-[04:38:37] [Server thread/INFO]: skullyxrd issued server command: /toa b
-[04:38:43] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
-[04:38:54] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[04:38:54] [Server thread/INFO]: skullyxrd has made the advancement [Who is Cutting Onions?]
-[04:38:57] [Server thread/INFO]: skullyxrd has made the advancement [Ice Bucket Challenge]
-[04:39:03] [Server thread/INFO]: Bumper202 has made the advancement [Who is Cutting Onions?]
-[04:40:15] [Server thread/INFO]: Bumper202 has completed the challenge [Hot Tourist Destinations]
-[04:42:00] [Server thread/INFO]: skullyxrd fell from a high place
-[04:42:09] [Server thread/INFO]: skullyxrd issued server command: /back
-[04:42:10] [Async Chat Thread - #4/INFO]: [Not Secure] <Termostato34> si
-[04:42:35] [Server thread/INFO]: Termostato34 issued server command: /homes
-[04:43:21] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
-[04:43:23] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[04:44:12] [Server thread/INFO]: skullyxrd issued server command: /home
-[04:44:14] [Server thread/INFO]: Termostato34 issued server command: /back
-[04:44:17] [Server thread/INFO]: skullyxrd issued server command: /homes
-[04:44:35] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
-[04:44:37] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[04:46:43] [Server thread/INFO]: Bumper202 tried to swim in lava
-[04:46:49] [Server thread/INFO]: Bumper202 issued server command: /back
-[04:47:15] [Server thread/INFO]: Termostato34 has made the advancement [This Boat Has Legs]
-[04:47:22] [Server thread/INFO]: skullyxrd issued server command: /back
-[04:48:29] [Server thread/INFO]: Termostato34 burned to death
-[04:48:30] [Server thread/INFO]: Attempt to teleport removed player Termostato34 restricted
-[04:48:33] [Server thread/INFO]: Termostato34 issued server command: /back
-[04:49:25] [Server thread/INFO]: Termostato34 issued server command: /back
-[04:49:27] [Server thread/INFO]: Termostato34 issued server command: /back
-[04:49:39] [Server thread/INFO]: Termostato34 issued server command: /gamemode creative
-[04:50:04] [Server thread/INFO]: Termostato34 issued server command: /gamemode survival
-[04:55:10] [Server thread/INFO]: skullyxrd was burned to a crisp while fighting Blaze
-[04:55:16] [Server thread/INFO]: skullyxrd issued server command: /back
-[04:55:21] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/25063, uuid='f33de04f-ea59-4096-adb3-9eefe3d5ffb9', l='ServerLevel[world_nether]', x=-15.50, y=71.36, z=226.28, cpos=[-1, 14], tl=13928, v=true] died: Infernal Piglin was shot by Bumper202
-[04:56:32] [Server thread/INFO]: Termostato34 issued server command: /homes
-[04:57:58] [Server thread/INFO]: skullyxrd withered away while fighting Wither Skeleton
-[04:58:05] [Server thread/INFO]: skullyxrd issued server command: /back
-[04:59:38] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/30846, uuid='cb979449-ebba-4ef2-af35-f276af4989b1', l='ServerLevel[world]', x=-1619.00, y=66.00, z=1542.43, cpos=[-102, 96], tl=1490, v=true] died: Infernal Zombie was slain by Termostato34
-[05:02:06] [Server thread/INFO]: skullyxrd was burned to a crisp while fighting Blaze
-[05:02:13] [Server thread/INFO]: skullyxrd issued server command: /back
-[05:02:27] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/30521, uuid='034c0313-ea61-4fb9-afd3-87d944212402', l='ServerLevel[world]', x=-1739.86, y=61.67, z=1492.87, cpos=[-109, 93], tl=6436, v=true] died: Infernal Skeleton suffocated in a wall
-[05:04:06] [Server thread/INFO]: skullyxrd burned to death
-[05:04:14] [Server thread/INFO]: skullyxrd issued server command: /back
-[05:04:17] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/28679, uuid='96b1a09e-548b-4284-8c10-eda7a8d26e01', l='ServerLevel[world_nether]', x=-108.49, y=37.00, z=286.89, cpos=[-7, 17], tl=11409, v=true] died: Infernal Piglin suffocated in a wall
-[05:04:18] [Server thread/INFO]: Termostato34 issued server command: /back
-[05:04:27] [Server thread/INFO]: Bumper202 tried to swim in lava
-[05:04:32] [Server thread/INFO]: Bumper202 issued server command: /back
-[05:04:36] [Server thread/INFO]: skullyxrd issued server command: /homes
-[05:05:56] [Server thread/INFO]: Bumper202 tried to swim in lava
-[05:06:01] [Server thread/INFO]: Bumper202 issued server command: /back
-[05:08:51] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
-[05:08:56] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[05:09:38] [Server thread/INFO]: Bumper202 tried to swim in lava
-[05:09:39] [Server thread/INFO]: skullyxrd issued server command: /homes
-[05:09:42] [Server thread/INFO]: Bumper202 issued server command: /back
-[05:09:56] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/22591, uuid='80eb0de7-05e9-48a9-95e9-9aca5798cefc', l='ServerLevel[world_nether]', x=-12.19, y=100.19, z=357.76, cpos=[-1, 22], tl=38469, v=true] died: Infernal Enderman was slain by Termostato34
-[05:10:08] [Server thread/INFO]: Bumper202 burned to death
-[05:10:15] [Server thread/INFO]: Bumper202 issued server command: /back
-[05:13:51] [Server thread/INFO]: Bumper202 issued server command: /homes
-[05:13:59] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[05:14:23] [Server thread/INFO]: Termostato34 issued server command: /homes
-[05:14:26] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
-[05:15:41] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:17:47] [Server thread/INFO]: skullyxrd was shot by Termostato34 during a BloodMoon!
-[05:18:11] [Server thread/INFO]: skullyxrd was shot by Skeleton during a BloodMoon!
-[05:18:35] [Server thread/INFO]: Termostato34 issued server command: /tpa skullyxrd
-[05:18:49] [Server thread/INFO]: Termostato34 issued server command: /homes
-[05:18:53] [Server thread/INFO]: skullyxrd withered away while fighting Zombie during a BloodMoon!
-[05:20:07] [Server thread/INFO]: skullyxrd withered away while fighting Zombie during a BloodMoon!
-[05:20:15] [Server thread/INFO]: Termostato34 issued server command: /homes
-[05:20:23] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:20:58] [Server thread/INFO]: skullyxrd withered away while fighting Skeleton during a BloodMoon!
-[05:21:23] [Server thread/INFO]: skullyxrd was shot by a skull from Infernal Skeleton during a BloodMoon!
-[05:21:30] [Server thread/INFO]: Termostato34 hit the ground too hard while trying to escape Skeleton during a BloodMoon!
-[05:21:39] [Server thread/INFO]: Termostato34 issued server command: /homes
-[05:21:41] [Server thread/INFO]: skullyxrd was shot by Infernal Skeleton during a BloodMoon!
-[05:21:43] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:22:15] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:23:01] [Server thread/INFO]: Termostato34 was shot by Skeleton during a BloodMoon!
-[05:23:04] [Server thread/INFO]: Termostato34 issued server command: /back
-[05:23:17] [Server thread/INFO]: skullyxrd was slain by Zombie during a BloodMoon!
-[05:23:19] [Server thread/INFO]: Termostato34 was blown up by Infernal Skeleton during a BloodMoon!
-[05:23:22] [Server thread/INFO]: Termostato34 issued server command: /homes
-[05:23:26] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/38842, uuid='6dcd6e80-e2c6-4fde-acc8-b2ef65d21b90', l='ServerLevel[world]', x=-1596.61, y=59.51, z=972.95, cpos=[-100, 60], tl=1884, v=true] died: Infernal Skeleton was slain by Bumper202 using [Magma Sword]
-[05:23:36] [Server thread/INFO]: skullyxrd was blown up by Infernal Skeleton during a BloodMoon!
-[05:23:46] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:24:02] [Server thread/INFO]: skullyxrd was shot by Skeleton during a BloodMoon!
-[05:24:15] [Server thread/INFO]: Termostato34 was shot by Skeleton during a BloodMoon!
-[05:24:18] [Server thread/INFO]: skullyxrd fell from a high place during a BloodMoon!
-[05:24:20] [Server thread/INFO]: Termostato34 issued server command: /back
-[05:24:24] [Server thread/INFO]: Termostato34 was shot by Skeleton during a BloodMoon!
-[05:24:25] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/38595, uuid='ee8238ee-5f22-4478-9eaa-a3202d5d111a', l='ServerLevel[world]', x=-1580.70, y=63.00, z=1016.70, cpos=[-99, 63], tl=4361, v=true] died: Infernal Skeleton was slain by Spider
-[05:24:25] [Server thread/INFO]: skullyxrd fell from a high place during a BloodMoon!
-[05:24:27] [Server thread/INFO]: Termostato34 issued server command: /back
-[05:24:39] [Server thread/INFO]: skullyxrd was slain by Zombie during a BloodMoon!
-[05:24:49] [Server thread/INFO]: Termostato34 was slain by Zombie during a BloodMoon!
-[05:24:52] [Server thread/INFO]: Termostato34 issued server command: /back
-[05:25:00] [Server thread/INFO]: Termostato34 was slain by Spider during a BloodMoon!
-[05:25:03] [Server thread/INFO]: Termostato34 issued server command: /back
-[05:26:07] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/39184, uuid='7ad3b432-a804-45c9-b282-7098a69e0eac', l='ServerLevel[world]', x=-1597.30, y=55.25, z=971.63, cpos=[-100, 60], tl=3524, v=true] died: Infernal Skeleton was slain by Bumper202 using [Magma Sword]
-[05:26:08] [Server thread/INFO]: Bumper202 drowned
-[05:26:11] [Server thread/INFO]: Bumper202 issued server command: /back
-[05:26:26] [Server thread/INFO]: Termostato34 drowned
-[05:26:29] [Server thread/INFO]: Termostato34 issued server command: /back
-[05:28:28] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:28:39] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:30:13] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:32:36] [Server thread/INFO]: skullyxrd fell from a high place
-[05:33:51] [Server thread/INFO]: Termostato34 issued server command: /tpa skullyxrd
-[05:33:56] [Server thread/INFO]: skullyxrd fell from a high place
-[05:34:26] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
-[05:34:31] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[05:36:41] [Server thread/INFO]: Termostato34 issued server command: /homes
-[05:40:00] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
-[05:41:25] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
-[05:41:38] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[05:41:39] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
-[05:41:43] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[05:42:51] [Server thread/INFO]: skullyxrd issued server command: /homes
-[05:43:54] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
-[05:44:04] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[05:44:28] [Server thread/INFO]: Bumper202 issued server command: /tpa Termostato34
-[05:44:31] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
-[05:47:37] [Server thread/INFO]: Termostato34 has made the advancement [Eye Spy]
-[05:47:37] [Server thread/INFO]: Bumper202 has made the advancement [Eye Spy]
-[05:49:04] [Server thread/INFO]: Bumper202 issued server command: /tpa Termostato34
-[05:49:12] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:49:21] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
-[05:49:44] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
-[05:49:46] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:49:49] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:49:56] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:52:27] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:53:07] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:53:19] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:54:01] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:54:16] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:55:01] [Server thread/INFO]: skullyxrd was doomed to fall by Skeleton
-[05:55:08] [Server thread/INFO]: skullyxrd issued server command: /back
-[05:55:43] [Server thread/INFO]: Termostato34 issued server command: /echest
-[05:56:43] [Server thread/INFO]: Termostato34 issued server command: /homes
-[05:58:14] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[05:59:14] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
-[05:59:17] [Server thread/INFO]: Named entity Spider['Infernal Spider'/54549, uuid='c707a64b-a6d8-4182-8579-371065f93948', l='ServerLevel[world]', x=-1330.30, y=63.10, z=1023.30, cpos=[-84, 63], tl=2071, v=true] died: Infernal Spider was shot by Termostato34 using [Archers Bow]
-[06:00:03] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/55345, uuid='587b287c-6685-439c-8201-fda727e04a81', l='ServerLevel[world]', x=-1834.24, y=16.00, z=968.39, cpos=[-115, 60], tl=804, v=true] died: Infernal Creeper suffocated in a wall
-[06:02:08] [Server thread/INFO]: Bumper202 issued server command: /back
-[06:02:13] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[06:02:14] [Server thread/INFO]: Termostato34 issued server command: /back
-[06:02:19] [Server thread/INFO]: Termostato34 issued server command: /tpa skullyxrd
-[06:02:35] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[06:03:07] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
-[06:03:17] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[06:03:57] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
-[06:04:31] [Server thread/INFO]: Termostato34 issued server command: /back
-[06:04:44] [Server thread/INFO]: Termostato34 issued server command: /homes
-[06:05:02] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/58767, uuid='afbebfb8-288e-4ce5-b16e-5dd353b2664d', l='ServerLevel[world]', x=-1864.50, y=69.54, z=1007.72, cpos=[-117, 62], tl=2886, v=true] died: Infernal Creeper was shot by Bumper202
-[06:05:22] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/59782, uuid='7ff6a737-db9d-4fb6-b9de-c6762e92d556', l='ServerLevel[world]', x=-1498.70, y=69.70, z=1058.30, cpos=[-94, 66], tl=1124, v=true] died: Infernal Skeleton was slain by Termostato34 using [Murder Axe]
-[06:06:05] [Server thread/INFO]: Bumper202 issued server command: /back
-[06:06:48] [Server thread/INFO]: Termostato34 issued server command: /back
-[06:06:57] [Server thread/INFO]: Termostato34 issued server command: /echest
-[06:07:47] [Server thread/INFO]: Termostato34 issued server command: /tpa skullyxrd
-[06:07:49] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[06:07:58] [Server thread/INFO]: Termostato34 issued server command: /tpa skullyxrd
-[06:08:07] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
-[06:08:21] [Server thread/INFO]: Termostato34 issued server command: /homes
-[06:09:25] [Server thread/INFO]: skullyxrd has made the advancement [Voluntary Exile]
-[06:09:42] [Server thread/INFO]: skullyxrd burned to death
-[06:09:52] [Server thread/INFO]: skullyxrd issued server command: /back
-[06:10:00] [Server thread/INFO]: Bumper202 issued server command: /back
-[06:10:37] [Server thread/INFO]: Termostato34 issued server command: /echest
-[06:11:15] [Server thread/INFO]: skullyxrd issued server command: /homes
-[06:11:43] [Server thread/INFO]: Termostato34 issued server command: /back
-[06:12:45] [Server thread/INFO]: Termostato34 issued server command: /back
-[06:13:02] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/63793, uuid='dd54535c-d240-40c3-a9f8-8c51364294e7', l='ServerLevel[world]', x=-2341.75, y=22.30, z=392.75, cpos=[-147, 24], tl=913, v=true] died: Infernal Zombie suffocated in a wall
-[06:13:43] [Server thread/INFO]: Named entity ZombifiedPiglin['Infernal Zombified piglin'/63670, uuid='4b89e278-d097-4c73-a0d4-250260102b35', l='ServerLevel[world_nether]', x=-227.69, y=103.00, z=174.53, cpos=[-15, 10], tl=1559, v=true] died: Infernal Zombified piglin was slain by Termostato34 using [Murder Axe]
-[06:14:55] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[06:15:59] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[06:16:01] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[06:16:12] [Server thread/INFO]: Termostato34 has made the advancement [Hidden in the Depths]
-[06:16:15] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
-[06:16:21] [Server thread/INFO]: Bumper202 issued server command: /tpa
-[06:16:26] [Server thread/INFO]: Termostato34 issued server command: /back
-[06:16:26] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[06:16:27] [Server thread/INFO]: skullyxrd has made the advancement [Eye Spy]
-[06:16:30] [Server thread/INFO]: Termostato34 issued server command: /echest
-[06:18:00] [Server thread/INFO]: skullyxrd has made the advancement [The End?]
-[06:18:01] [Server thread/INFO]: Bumper202 has made the advancement [The End?]
-[06:18:01] [Server thread/INFO]: Termostato34 has made the advancement [The End?]
-[06:18:02] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[06:18:02] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[06:18:02] [Server thread/INFO]: [InfernalMobs] Detected Entity Spawn: Ender Dragon
-[06:19:51] [Server thread/INFO]: Bumper202 fell from a high place
-[06:19:56] [Server thread/INFO]: Bumper202 issued server command: /back
-[06:20:37] [Server thread/INFO]: skullyxrd was doomed to fall by Ender Dragon
-[06:20:44] [Server thread/INFO]: skullyxrd issued server command: /back
-[06:22:37] [Server thread/INFO]: Termostato34 has made the advancement [Free the End]
-[06:22:38] [Server thread/INFO]: skullyxrd was slain by Enderman
-[06:22:44] [Server thread/INFO]: skullyxrd issued server command: /back
-[06:23:10] [Server thread/INFO]: Bumper202 has reached the goal [The Next Generation]
-[06:23:19] [Server thread/INFO]: Termostato34 has reached the goal [The Next Generation]
-[06:23:22] [Server thread/INFO]: skullyxrd has reached the goal [The Next Generation]
-[06:29:02] [Server thread/INFO]: Termostato34 has made the advancement [Remote Getaway]
-[06:29:04] [Server thread/INFO]: Bumper202 has made the advancement [Remote Getaway]
-[06:29:06] [Server thread/INFO]: skullyxrd has made the advancement [Remote Getaway]
-[06:29:15] [Server thread/INFO]: Bumper202 has made the advancement [The City at the End of the Game]
-[06:29:19] [Server thread/INFO]: Termostato34 has made the advancement [The City at the End of the Game]
-[06:29:24] [Server thread/INFO]: skullyxrd has made the advancement [The City at the End of the Game]
-[06:29:24] [Server thread/INFO]: skullyxrd fell from a high place
-[06:29:30] [Server thread/INFO]: Bumper202 has reached the goal [Sky's the Limit]
-[06:29:33] [Server thread/INFO]: skullyxrd issued server command: /back
-[06:32:38] [Server thread/INFO]: Bumper202 fell from a high place
-[06:32:42] [Server thread/INFO]: Bumper202 issued server command: /back
-[06:34:07] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/67808, uuid='6a6852e9-f2c9-44b1-895c-db5aa480cdbf', l='ServerLevel[world_the_end]', x=-898.26, y=63.19, z=-547.20, cpos=[-57, -35], tl=1841, v=true] died: Infernal Enderman was slain by Termostato34
-[06:34:40] [Server thread/INFO]: skullyxrd hit the ground too hard
-[06:34:45] [Server thread/INFO]: skullyxrd issued server command: /back
-[06:36:12] [Server thread/INFO]: Bumper202 was slain by Shulker
-[06:36:16] [Server thread/INFO]: Bumper202 issued server command: /back
-[06:36:18] [Server thread/INFO]: Termostato34 issued server command: /tpa Bumper202
-[06:36:59] [Server thread/INFO]: Bumper202 was doomed to fall
-[06:37:01] [Server thread/INFO]: Bumper202 issued server command: /back
-[06:37:37] [Server thread/INFO]: Named entity Shulker['Infernal Shulker'/68564, uuid='8fa08637-11c1-488b-9201-6977555101f9', l='ServerLevel[world_the_end]', x=-863.50, y=112.00, z=-547.50, cpos=[-54, -35], tl=2468, v=true] died: Infernal Shulker was blown up by Infernal Shulker
-[06:38:34] [Server thread/INFO]: skullyxrd issued server command: /tpa accept
-[06:38:42] [Server thread/INFO]: skullyxrd issued server command: /tpa Termostato34
-[06:38:51] [Server thread/INFO]: Termostato34 issued server command: /tpaccept
-[06:38:59] [Server thread/INFO]: Bumper202 has made the advancement [Local Brewery]
-[06:39:15] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[06:39:47] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
-[06:40:38] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
-[06:41:43] [Server thread/INFO]: Termostato34 has reached the goal [Sky's the Limit]
-[06:43:06] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
-[06:43:36] [Server thread/INFO]: Named entity ZombieHorse['Infernal Zombie horse'/70001, uuid='2d73f9f7-aaf9-4f8d-ab59-659c3f6de455', l='ServerLevel[world_the_end]', x=-1202.36, y=65.75, z=-90.97, cpos=[-76, -6], tl=599, v=true] died: Infernal Zombie horse was slain by Termostato34
-[06:44:22] [Server thread/INFO]: skullyxrd hit the ground too hard
-[06:44:29] [Server thread/INFO]: skullyxrd issued server command: /back
-[06:45:11] [Server thread/INFO]: skullyxrd was slain by Shulker
-[06:45:20] [Server thread/INFO]: skullyxrd issued server command: /back
-[06:45:33] [Server thread/INFO]: Termostato34 died
-[06:45:33] [Server thread/INFO]: Termostato34 was slain by Infernal Enderman
-[06:45:33] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/69867, uuid='83c5c28f-8a6d-4ff9-b807-6fa1c2c69c8d', l='ServerLevel[world_the_end]', x=-1080.76, y=58.00, z=23.55, cpos=[-68, 1], tl=3362, v=true] died: Infernal Enderman went off with a bang
-[06:45:35] [Server thread/INFO]: skullyxrd issued server command: /homes
-[06:45:35] [Server thread/INFO]: skullyxrd has completed the challenge [Great View From Up Here]
-[06:45:37] [Server thread/INFO]: Termostato34 issued server command: /back
-[06:46:19] [Server thread/INFO]: skullyxrd issued server command: /back
-[06:46:29] [Async Chat Thread - #6/INFO]: [Not Secure] <Termostato34> se me descargaron los audifonos
-[06:46:29] [Async Chat Thread - #6/INFO]: [Not Secure] <Termostato34> xd
-[06:47:20] [Server thread/INFO]: skullyxrd issued server command: /tpa Bumper202
-[06:47:42] [Server thread/INFO]: Termostato34 fell from a high place
-[06:47:45] [Server thread/INFO]: Termostato34 issued server command: /back
-[06:48:09] [Server thread/INFO]: Bumper202 issued server command: /tpaccept
-[06:48:33] [Server thread/INFO]: skullyxrd has reached the goal [Sky's the Limit]
-[06:50:30] [Server thread/INFO]: Termostato34 died because of Infernal Enderman
-[06:50:35] [Server thread/INFO]: Termostato34 issued server command: /back
-[06:52:29] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[06:52:36] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
-[06:52:40] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/73082, uuid='31ddff82-ad52-482b-9b11-db980d0884d7', l='ServerLevel[world_the_end]', x=-1770.02, y=59.19, z=-64.43, cpos=[-111, -5], tl=3055, v=true] died: Infernal Enderman was slain by Termostato34
-[06:53:36] [Server thread/INFO]: Bumper202 was slain by Infernal Enderman
-[06:53:41] [Server thread/INFO]: Bumper202 issued server command: /back
-[06:54:19] [Server thread/INFO]: Bumper202 was doomed to fall
-[06:54:22] [Server thread/INFO]: Bumper202 issued server command: /back
-[06:54:36] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/74264, uuid='25541d46-1738-4cc8-9812-34dd8e02f6ec', l='ServerLevel[world_the_end]', x=-1887.12, y=58.19, z=78.40, cpos=[-118, 4], tl=1241, v=true] died: Infernal Enderman was slain by Termostato34
-[06:55:01] [Async Chat Thread - #8/INFO]: [Not Secure] <Termostato34> catigo 7 filo 9
-[06:55:10] [Async Chat Thread - #8/INFO]: [Not Secure] <Termostato34> saqueo v
-[06:55:12] [Async Chat Thread - #9/INFO]: [Not Secure] <skullyxrd> :c
-[06:55:57] [Server thread/INFO]: Bumper202 was slain by Infernal Enderman
-[06:56:00] [Server thread/INFO]: Bumper202 issued server command: /back
-[06:56:00] [Async Chat Thread - #9/INFO]: [Not Secure] <Termostato34> ojo si les dan espadas que se llamen wraithbringer, esas llevan mal presagio siempre
-[06:57:17] [Server thread/INFO]: Bumper202 hit the ground too hard while trying to escape Infernal Enderman
-[06:57:20] [Server thread/INFO]: Bumper202 issued server command: /back
-[06:57:51] [Server thread/INFO]: skullyxrd was slain by Infernal Enderman
-[06:57:57] [Server thread/INFO]: skullyxrd issued server command: /back
-[06:58:07] [Server thread/INFO]: skullyxrd was slain by Enderman
-[06:58:13] [Server thread/INFO]: skullyxrd issued server command: /back
-[06:58:28] [Server thread/WARN]: Termostato34 moved too quickly! -6.130374425835726,-32.0,5.664431917721231
-[06:58:59] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/73906, uuid='e0d0e1ab-e6bd-470e-9925-b0067f2fdb5c', l='ServerLevel[world_the_end]', x=-1354.50, y=59.00, z=779.18, cpos=[-85, 48], tl=8166, v=true] died: Infernal Enderman burned to death
-[06:59:06] [Server thread/INFO]: Bumper202 was slain by Enderman
-[06:59:08] [Server thread/INFO]: Termostato34 issued server command: /echest
-[06:59:09] [Server thread/INFO]: Bumper202 issued server command: /back
-[07:00:43] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[07:00:49] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
-[07:01:19] [Server thread/INFO]: Bumper202 was slain by Infernal Enderman
-[07:01:23] [Server thread/INFO]: Bumper202 issued server command: /back
-[07:03:32] [Server thread/WARN]: Termostato34 moved too quickly! -2.139827904741196,-44.0,5.997748092523182
-[07:03:45] [Server thread/INFO]: skullyxrd was slain by Infernal Enderman
-[07:03:50] [Server thread/INFO]: skullyxrd issued server command: /back
-[07:04:38] [Server thread/INFO]: Bumper202 was slain by Enderman
-[07:04:41] [Server thread/INFO]: Bumper202 issued server command: /back
-[07:04:58] [Server thread/INFO]: skullyxrd was slain by Enderman
-[07:05:04] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/75736, uuid='c0be17c1-2fcf-4227-8fd5-ac41d0768d30', l='ServerLevel[world_the_end]', x=-1361.38, y=62.19, z=713.75, cpos=[-86, 44], tl=7317, v=true] died: Infernal Enderman was slain by Bumper202
-[07:05:08] [Server thread/INFO]: skullyxrd issued server command: /back
-[07:05:24] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/76762, uuid='43681176-32a9-405f-941f-40783ea8c327', l='ServerLevel[world_the_end]', x=-2125.97, y=64.37, z=230.09, cpos=[-133, 14], tl=3273, v=true] died: Infernal Enderman was slain by Termostato34 using [Wrathbringer]
-[07:05:56] [Async Chat Thread - #10/INFO]: [Not Secure] <Termostato34> QUE CARAJO
-[07:06:02] [Async Chat Thread - #11/INFO]: [Not Secure] <Termostato34> UN ENDERMAN ENCIMA DE UN GHAST
-[07:06:07] [Async Chat Thread - #11/INFO]: [Not Secure] <skullyxrd> que pasho
-[07:06:35] [Server thread/INFO]: Bumper202 withered away while fighting Infernal Enderman
-[07:06:36] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/77587, uuid='419c7597-e3a8-4536-ab77-4eef8fd8cd4c', l='ServerLevel[world_the_end]', x=-1341.22, y=62.19, z=735.16, cpos=[-84, 45], tl=1284, v=true] died: Infernal Enderman was burned to a crisp while fighting skullyxrd
-[07:06:39] [Server thread/INFO]: Bumper202 issued server command: /back
-[07:06:40] [Server thread/INFO]: skullyxrd withered away
-[07:06:46] [Server thread/INFO]: skullyxrd issued server command: /back
-[07:07:36] [Server thread/INFO]: Termostato34 withered away
-[07:07:40] [Server thread/INFO]: Termostato34 issued server command: /BACK
-[07:07:43] [Server thread/INFO]: Termostato34 issued server command: /back
-[07:08:13] [Async Chat Thread - #12/INFO]: [Not Secure] <Termostato34> bueno
-[07:08:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Termostato34> me voy caritas de monda
-[07:08:22] [Async Chat Thread - #14/INFO]: [Not Secure] <skullyxrd> santi
-[07:08:23] [Async Chat Thread - #14/INFO]: [Not Secure] <Termostato34> chao putos
-[07:08:26] [Async Chat Thread - #14/INFO]: [Not Secure] <Termostato34> los odio
-[07:08:26] [Async Chat Thread - #14/INFO]: [Not Secure] <Termostato34> q
-[07:08:35] [Async Chat Thread - #13/INFO]: [Not Secure] <skullyxrd> ahora soy a prueba de explosiones xdddd
-[07:08:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Termostato34> luego
-[07:08:47] [Server thread/INFO]: skullyxrd issued server command: /una armadura rota
-[07:08:55] [Async Chat Thread - #13/INFO]: [Not Secure] <skullyxrd> una armadura sacada del qlo
-[07:09:02] [Async Chat Thread - #13/INFO]: [Not Secure] <Termostato34> JAJAJAJAJ
-[07:09:06] [Async Chat Thread - #13/INFO]: [Not Secure] <Termostato34> opopopopppo
-[07:09:08] [Async Chat Thread - #13/INFO]: [Not Secure] <Termostato34> bueno
-[07:09:09] [Server thread/INFO]: Bumper202 experienced kinetic energy while trying to escape Enderman
-[07:09:10] [Async Chat Thread - #12/INFO]: [Not Secure] <Termostato34> ahora si
-[07:09:12] [Async Chat Thread - #12/INFO]: [Not Secure] <Termostato34> chao
-[07:09:12] [Server thread/INFO]: Bumper202 issued server command: /back
-[07:09:14] [Async Chat Thread - #12/INFO]: [Not Secure] <skullyxrd> descansa bro
-[07:09:15] [Async Chat Thread - #12/INFO]: [Not Secure] <Termostato34> putos
-[07:09:23] [Async Chat Thread - #12/INFO]: [Not Secure] <skullyxrd> EL SERVEEEEEEEEEEEEER
-[07:09:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Termostato34> y digale al alex que deje de ser tan botsito y no muera tanto
-[07:09:39] [Async Chat Thread - #13/INFO]: [Not Secure] <skullyxrd> EL SERVEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEER
-[07:09:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Termostato34> chao
-[07:09:47] [Server thread/INFO]: Termostato34 lost connection: Disconnected
-[07:09:47] [Server thread/INFO]: Termostato34 left the game
-[07:09:50] [Async Chat Thread - #13/INFO]: [Not Secure] <skullyxrd> EL SERVEEEEEEEEEEEEEEEEEEEEEEEEER
-[07:09:58] [Server thread/INFO]: skullyxrd issued server command: /homes
-[07:12:59] [Server thread/INFO]: Bumper202 was slain by Infernal Enderman
-[07:13:02] [Server thread/INFO]: Bumper202 issued server command: /back
-[07:14:04] [Server thread/INFO]: Bumper202 was burned to a crisp while fighting Enderman
-[07:14:09] [Server thread/INFO]: Bumper202 issued server command: /back
-[07:16:01] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/80198, uuid='2bf8680e-1b17-4e9b-b409-45628b5ad55c', l='ServerLevel[world_the_end]', x=-668.71, y=62.19, z=1915.09, cpos=[-42, 119], tl=5582, v=true] died: Infernal Enderman was slain by Bumper202 using [Magma Sword]
-[07:16:04] [Server thread/INFO]: Bumper202 burned to death
-[07:16:06] [Server thread/INFO]: Bumper202 issued server command: /back
-[07:23:08] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/82318, uuid='81550b29-87e7-47e5-a459-3f09364c95e0', l='ServerLevel[world_the_end]', x=-415.31, y=64.00, z=2359.16, cpos=[-26, 147], tl=3833, v=true] died: Infernal Enderman was slain by Bumper202
-[07:24:31] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[07:24:40] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
-[07:26:04] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/82876, uuid='ffa473be-c32b-40e6-a4b2-f093c99c9d99', l='ServerLevel[world]', x=-1534.47, y=64.92, z=998.51, cpos=[-96, 62], tl=3324, v=true] died: Infernal Zombie burned to death
-[07:29:54] [Server thread/INFO]: skullyxrd issued server command: /homes
-[07:31:55] [Server thread/INFO]: Bumper202 issued server command: /back
-[07:31:59] [Server thread/INFO]: Bumper202 issued server command: /
-[07:32:20] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/82446, uuid='7f2e9aa7-0cf9-4299-9ac5-2ea5aa4edc08', l='ServerLevel[world]', x=-1545.17, y=70.00, z=1016.09, cpos=[-97, 63], tl=14079, v=true] died: Infernal Zombie burned to death
-[07:34:07] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
-[07:34:13] [Server thread/INFO]: Bumper202 issued server command: /tpa skullyxrd
-[07:34:13] [Server thread/INFO]: skullyxrd issued server command: /tpacancel
-[07:34:21] [Server thread/INFO]: skullyxrd issued server command: /tpaccept
-[07:36:39] [Server thread/INFO]: skullyxrd issued server command: /homes
-[07:36:45] [Server thread/INFO]: Bumper202 fell from a high place
-[07:36:52] [Server thread/INFO]: Bumper202 issued server command: /back
+[02:02:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:02:24] [ServerMain/INFO]: Loaded 1290 recipes
+[02:02:24] [ServerMain/INFO]: Loaded 1399 advancements
+[02:02:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:02:24] [Server thread/INFO]: Loading properties
+[02:02:24] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[02:02:25] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:02:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:02:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:02:26] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:02:27] [Server thread/INFO]: Default game type: SURVIVAL
+[02:02:27] [Server thread/INFO]: Generating keypair
+[02:02:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:02:27] [Server thread/INFO]: Using epoll channel type
+[02:02:27] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:02:27] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[02:02:29] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Testeo/servidor_minecraft/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[02:02:30] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.154
+[02:02:30] [Server thread/INFO]: [TabTPS] Loading server plugin TabTPS v1.3.25
+[02:02:30] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[02:02:30] [Server thread/INFO]: [GWarp] Loading server plugin GWarp v[2.13.0.2]
+[02:02:30] [Server thread/INFO]: [EnchantsSquared] Loading server plugin EnchantsSquared v2.5.11
+[02:02:30] [Server thread/INFO]: [TreeCapitator] Loading server plugin TreeCapitator v7.1
+[02:02:30] [Server thread/INFO]: [BloodMoon] Loading server plugin BloodMoon v0.8.1
+[02:02:30] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v2.2.7
+[02:02:30] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[02:02:31] [Server thread/INFO]: [InfernalMobs] Loading server plugin InfernalMobs v6.8
+[02:02:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:02:31] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.154
+[02:02:31] [Server thread/INFO]:         __    
+[02:02:31] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.154
+[02:02:31] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:02:31] [Server thread/INFO]: 
+[02:02:31] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:02:31] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[02:02:32] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:02:32] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:02:32] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1741ms)
+[02:02:32] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[02:02:34] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:02:35] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[02:02:37] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:02:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:02:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:02:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:02:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:02:37] [Server thread/INFO]: Preparing level "world"
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:02:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:02:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:02:40] [Server thread/INFO]: Time elapsed: 2426 ms
+[02:02:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:02:40] [Server thread/INFO]: Time elapsed: 338 ms
+[02:02:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:02:41] [Server thread/INFO]: Time elapsed: 302 ms
+[02:02:41] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.3.25
+[02:02:45] [Server thread/INFO]: [GWarp] Enabling GWarp v[2.13.0.2]
+[02:02:45] [Server thread/INFO]: [GWarp] The Plugin was successfully enabled.
+[02:02:45] [Server thread/INFO]: [EnchantsSquared] Enabling EnchantsSquared v2.5.11
+[02:02:46] [Server thread/INFO]: [TreeCapitator] Enabling TreeCapitator v7.1
+[02:02:46] [Server thread/INFO]: [TreeCapitator] WorldGuard not found. Maybe WorldGuard or this plugin are not up to date?
+[02:02:46] [Server thread/INFO]: [TreeCapitator] An update is available, use /tc update to update to the lastest version (from v7.1 to v6.4.4)
+[02:02:46] [Server thread/INFO]: [TreeCapitator] Logs from JSON: [OAK_LOG, OAK_LOG, OAK_LOG, OAK_LOG]
+[02:02:46] [Server thread/INFO]: [TreeCapitator] Leaves from JSON: [OAK_LEAVES, OAK_LEAVES, OAK_LEAVES, OAK_LEAVES]
+[02:02:46] [Server thread/INFO]: [TreeCapitator] Enabled
+[02:02:46] [Server thread/INFO]: [BloodMoon] Enabling BloodMoon v0.8.1
+[02:02:47] [Server thread/INFO]: [BloodMoon] This plugin is still in its infancy. If you encounter a bug, please report it to https://www.spigotmc.org/threads/bloodmoon.412741/
+[02:02:47] [Server thread/INFO]: [DeathChest] Enabling DeathChest v2.2.7
+[02:02:47] [Server thread/INFO]: [DeathChest] 1 death chests loaded in world "world"
+[02:02:47] [Server thread/INFO]: [DeathChest]   Of these 1 have expired
+[02:02:47] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
+[02:02:47] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[02:02:47] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
+[02:02:47] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[02:02:48] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[02:02:48] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[02:02:50] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[02:02:50] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[02:02:51] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[02:02:51] [Server thread/INFO]: [Essentials] Using locale en
+[02:02:51] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[02:02:51] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[02:02:51] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[02:02:51] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[02:02:51] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[02:02:51] [Server thread/INFO]: [InfernalMobs] Enabling InfernalMobs v6.8
+[02:02:51] [Server thread/INFO]: [InfernalMobs] Registered Events.
+[02:02:51] [Server thread/INFO]: [spark] Starting background profiler...
+[02:02:52] [Server thread/INFO]: Done preparing level "world" (15.390s)
+[02:02:52] [Server thread/INFO]: Running delayed init tasks
+[02:02:52] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[02:02:52] [Server thread/INFO]: Done (50.416s)! For help, type "help"
+[02:02:52] [Server thread/INFO]: Timings Reset
+[02:02:52] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] There is an update available for TabTPS!
+[02:02:52] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] This server is running version v1.3.25, which is 1 versions outdated.
+[02:02:52] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] Download the latest version, v1.3.26 from GitHub at the link below:
+[02:02:52] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] https://github.com/jpenilla/TabTPS/releases/tag/v1.3.26
+[02:04:19] [User Authenticator #0/INFO]: UUID of player Termostato34 is a62bbb5f-22fb-364c-8ce6-21a51aa29739
+[02:04:20] [Server thread/INFO]: Termostato34 joined the game
+[02:04:21] [Server thread/INFO]: Termostato34[/192.168.194.50:54315] logged in with entity id 43 at ([world_the_end]-2130.3753136560254, 63.0, 233.01629826293677)
+[02:05:12] [Server thread/INFO]: Termostato34 issued server command: /echest
+[02:05:25] [Server thread/INFO]: Termostato34 issued server command: /homes
+[02:05:44] [Server thread/INFO]: Termostato34 issued server command: /back
+[02:05:50] [Server thread/INFO]: Termostato34 issued server command: /echest
+[02:09:03] [Server thread/ERROR]: [InfernalMobs] No enum constant org.bukkit.potion.PotionType.HEAL
+[02:09:03] [Server thread/WARN]: java.lang.IllegalArgumentException: No enum constant org.bukkit.potion.PotionType.HEAL
+[02:09:03] [Server thread/WARN]: 	at java.base/java.lang.Enum.valueOf(Enum.java:293)
+[02:09:03] [Server thread/WARN]: 	at org.bukkit.potion.PotionType.valueOf(PotionType.java:17)
+[02:09:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.legacy.FieldRename.valueOf_PotionType(FieldRename.java:274)
+[02:09:03] [Server thread/WARN]: 	at InfernalMobs.jar//io.hotmail.com.jacob_vejvoda.infernal_mobs.infernal_mobs.BUKKIT_CUSTOM_METHOD_org_bukkit_craftbukkit_legacy_FieldRename_valueOf_PotionType(infernal_mobs.java)
+[02:09:03] [Server thread/WARN]: 	at InfernalMobs.jar//io.hotmail.com.jacob_vejvoda.infernal_mobs.infernal_mobs.getItem(infernal_mobs.java:743)
+[02:09:03] [Server thread/WARN]: 	at InfernalMobs.jar//io.hotmail.com.jacob_vejvoda.infernal_mobs.infernal_mobs.getLoot(infernal_mobs.java:607)
+[02:09:03] [Server thread/WARN]: 	at InfernalMobs.jar//io.hotmail.com.jacob_vejvoda.infernal_mobs.infernal_mobs.getRandomLoot(infernal_mobs.java:577)
+[02:09:03] [Server thread/WARN]: 	at InfernalMobs.jar//io.hotmail.com.jacob_vejvoda.infernal_mobs.EventListener.onEntityDeath(EventListener.java:428)
+[02:09:03] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor148.execute(Unknown Source)
+[02:09:03] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77)
+[02:09:03] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[02:09:03] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[02:09:03] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[02:09:03] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131)
+[02:09:03] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628)
+[02:09:03] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDeathEvent(CraftEventFactory.java:998)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.world.entity.LivingEntity.dropAllDeathLoot(LivingEntity.java:1878)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.world.entity.LivingEntity.die(LivingEntity.java:1781)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1586)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.world.entity.monster.EnderMan.hurt(EnderMan.java:404)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.world.entity.player.Player.attack(Player.java:1344)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.server.level.ServerPlayer.attack(ServerPlayer.java:2420)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl$3.onAttack(ServerGamePacketListenerImpl.java:2871)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.dispatch(ServerboundInteractPacket.java:29)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket.dispatch(ServerboundInteractPacket.java:89)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleInteract(ServerGamePacketListenerImpl.java:2782)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:76)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:14)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318)
+[02:09:03] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:09:03] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:09:03] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/839, uuid='0dc62525-c023-4678-92b1-1368f300abe8', l='ServerLevel[world_the_end]', x=-2140.89, y=63.11, z=251.86, cpos=[-134, 15], tl=872, v=true] died: Infernal Enderman was slain by Termostato34 using [Wrathbringer]
+[02:09:43] [Server thread/WARN]: Termostato34 moved too quickly! -6.641054580348282,0.0,7.703543050307701
+[02:10:29] [User Authenticator #1/INFO]: UUID of player Bumper202 is 6f43db09-d6f1-35d4-b106-2625ad5968bd
+[02:10:31] [Server thread/INFO]: Bumper202 joined the game
+[02:10:31] [Server thread/INFO]: Bumper202[/192.168.194.175:60233] logged in with entity id 1020 at ([world]-1751.2478953731743, 63.0, 742.0064060461821)
+[02:10:39] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> ola
+[02:10:44] [Async Chat Thread - #0/INFO]: [Not Secure] <Termostato34> ola bobolon
+[02:10:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> te amo mi amor
+[02:10:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> no le digas a gabriel
+[02:10:57] [Async Chat Thread - #0/INFO]: [Not Secure] <Termostato34> :o
+[02:11:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> lo nuestro es secreto
+[02:11:05] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> shhhh
+[02:11:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Termostato34> *se sonroja*
