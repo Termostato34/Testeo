@@ -464,7 +464,8 @@
       "minecraft:spider": "2025-02-16 05:14:49 +0000",
       "minecraft:zombie": "2025-02-16 04:45:32 +0000",
       "minecraft:creeper": "2025-02-20 03:45:30 +0000",
-      "minecraft:drowned": "2025-02-16 05:18:45 +0000"
+      "minecraft:drowned": "2025-02-16 05:18:45 +0000",
+      "minecraft:slime": "2025-02-21 02:47:38 +0000"
     },
     "done": false
   },
@@ -2590,6 +2591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-21 02:47:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2025-02-21 02:13:29 +0000"
@@ -2608,6 +2615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-21 02:47:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-02-21 02:17:56 +0000"
@@ -2623,6 +2636,12 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-02-21 02:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-21 02:47:39 +0000"
     },
     "done": true
   },

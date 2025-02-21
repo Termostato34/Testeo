@@ -278,3 +278,162 @@
 [02:41:07] [Server thread/INFO]: Termostato34 issued server command: /homes
 [02:41:14] [Server thread/INFO]: Termostato34 issued server command: /back
 [02:42:22] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs cspawn FROG
+[02:42:30] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs cspawn FROG world_the_end ~ ~ ~
+[02:42:30] [Server thread/WARN]: java.lang.NumberFormatException: For input string: "~"
+[02:42:30] [Server thread/WARN]: 	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+[02:42:30] [Server thread/WARN]: 	at java.base/java.lang.Integer.parseInt(Integer.java:662)
+[02:42:30] [Server thread/WARN]: 	at java.base/java.lang.Integer.parseInt(Integer.java:778)
+[02:42:30] [Server thread/WARN]: 	at InfernalMobs.jar//io.hotmail.com.jacob_vejvoda.infernal_mobs.infernal_mobs.onCommand(infernal_mobs.java:2554)
+[02:42:30] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[02:42:30] [Server thread/WARN]: 	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91)
+[02:42:30] [Server thread/WARN]: 	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:350)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:337)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:332)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2218)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2192)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318)
+[02:42:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:42:30] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:42:40] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs cspawn FROG
+[02:42:56] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs cspawn FROG world_the_end ~ ~ ~ sprint
+[02:42:56] [Server thread/WARN]: java.lang.NumberFormatException: For input string: "~"
+[02:42:56] [Server thread/WARN]: 	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+[02:42:56] [Server thread/WARN]: 	at java.base/java.lang.Integer.parseInt(Integer.java:662)
+[02:42:56] [Server thread/WARN]: 	at java.base/java.lang.Integer.parseInt(Integer.java:778)
+[02:42:56] [Server thread/WARN]: 	at InfernalMobs.jar//io.hotmail.com.jacob_vejvoda.infernal_mobs.infernal_mobs.onCommand(infernal_mobs.java:2632)
+[02:42:56] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[02:42:56] [Server thread/WARN]: 	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91)
+[02:42:56] [Server thread/WARN]: 	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:350)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:337)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.commands.Commands.performCommand(Commands.java:332)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2218)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2192)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318)
+[02:42:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:42:56] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:43:18] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn BEE
+[02:43:27] [Server thread/INFO]: Named entity Bee['Infernal Bee'/8106, uuid='48ff947b-5c3a-41f5-8def-54513a9a6691', l='ServerLevel[world_the_end]', x=-2711.33, y=59.59, z=53.66, cpos=[-170, 3], tl=178, v=true] died: Infernal Bee was slain by Termostato34
+[02:43:39] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:43:40] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:43:41] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:43:41] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:43:42] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:43:42] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:43:43] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:43:54] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8148, uuid='f6a6b900-e5d7-492c-a024-80789f832eab', l='ServerLevel[world_the_end]', x=-2763.64, y=60.77, z=81.61, cpos=[-173, 5], tl=227, v=true] died: Infernal Frog burned to death
+[02:44:13] [Server thread/ERROR]: [InfernalMobs] No enum constant org.bukkit.potion.PotionType.HEAL
+[02:44:13] [Server thread/WARN]: java.lang.IllegalArgumentException: No enum constant org.bukkit.potion.PotionType.HEAL
+[02:44:13] [Server thread/WARN]: 	at java.base/java.lang.Enum.valueOf(Enum.java:293)
+[02:44:13] [Server thread/WARN]: 	at org.bukkit.potion.PotionType.valueOf(PotionType.java:17)
+[02:44:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.legacy.FieldRename.valueOf_PotionType(FieldRename.java:274)
+[02:44:13] [Server thread/WARN]: 	at InfernalMobs.jar//io.hotmail.com.jacob_vejvoda.infernal_mobs.infernal_mobs.BUKKIT_CUSTOM_METHOD_org_bukkit_craftbukkit_legacy_FieldRename_valueOf_PotionType(infernal_mobs.java)
+[02:44:13] [Server thread/WARN]: 	at InfernalMobs.jar//io.hotmail.com.jacob_vejvoda.infernal_mobs.infernal_mobs.getItem(infernal_mobs.java:743)
+[02:44:13] [Server thread/WARN]: 	at InfernalMobs.jar//io.hotmail.com.jacob_vejvoda.infernal_mobs.infernal_mobs.getLoot(infernal_mobs.java:607)
+[02:44:13] [Server thread/WARN]: 	at InfernalMobs.jar//io.hotmail.com.jacob_vejvoda.infernal_mobs.infernal_mobs.getRandomLoot(infernal_mobs.java:577)
+[02:44:13] [Server thread/WARN]: 	at InfernalMobs.jar//io.hotmail.com.jacob_vejvoda.infernal_mobs.EventListener.onEntityDeath(EventListener.java:428)
+[02:44:13] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor148.execute(Unknown Source)
+[02:44:13] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77)
+[02:44:13] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[02:44:13] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[02:44:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[02:44:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131)
+[02:44:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628)
+[02:44:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDeathEvent(CraftEventFactory.java:998)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.world.entity.LivingEntity.dropAllDeathLoot(LivingEntity.java:1878)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.world.entity.LivingEntity.die(LivingEntity.java:1781)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1586)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.world.entity.player.Player.attack(Player.java:1344)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.server.level.ServerPlayer.attack(ServerPlayer.java:2420)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl$3.onAttack(ServerGamePacketListenerImpl.java:2871)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.dispatch(ServerboundInteractPacket.java:29)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket.dispatch(ServerboundInteractPacket.java:89)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleInteract(ServerGamePacketListenerImpl.java:2782)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:76)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:14)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318)
+[02:44:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[02:44:13] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:44:13] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8140, uuid='ddff66bc-6200-47ee-b467-fdcc06cf80cf', l='ServerLevel[world_the_end]', x=-2721.40, y=58.00, z=52.27, cpos=[-171, 3], tl=666, v=true] died: Infernal Frog was slain by Termostato34
+[02:44:53] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/8198, uuid='d9886e65-d05c-4578-8e8d-586cb2ab6330', l='ServerLevel[world_the_end]', x=-2707.85, y=59.00, z=48.57, cpos=[-170, 3], tl=795, v=true] died: Infernal Zombie was slain by Termostato34
+[02:45:09] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8146, uuid='f6a4395c-5feb-422c-9e3b-ef902ddc1814', l='ServerLevel[world_the_end]', x=-2694.09, y=59.00, z=43.51, cpos=[-169, 2], tl=1733, v=true] died: Infernal Frog was slain by Termostato34
+[02:45:09] [Server thread/INFO]: Termostato34 blew up
+[02:45:12] [Server thread/INFO]: Termostato34 issued server command: /back
+[02:45:41] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8145, uuid='ef5817da-723f-4fca-9300-9abeab58988a', l='ServerLevel[world_the_end]', x=-2682.33, y=60.00, z=65.30, cpos=[-168, 4], tl=2395, v=true] died: Infernal Frog was slain by Termostato34
+[02:46:14] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8137, uuid='b1c6765b-8e72-410b-a9da-3161ac226fea', l='ServerLevel[world_the_end]', x=-2677.44, y=59.00, z=78.25, cpos=[-168, 4], tl=3109, v=true] died: Infernal Frog was slain by Termostato34
+[02:46:44] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8144, uuid='312b145f-d48d-43d5-961d-3446d96e2dfa', l='ServerLevel[world_the_end]', x=-2719.05, y=59.00, z=60.98, cpos=[-170, 3], tl=3663, v=true] died: Infernal Frog burned to death
+[02:46:49] [Server thread/INFO]: Termostato34 was doomed to fall
+[02:46:52] [Server thread/INFO]: Termostato34 issued server command: /back
+[02:47:16] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8142, uuid='69998281-ffa3-49bf-bcc4-4c975d3fcad1', l='ServerLevel[world_the_end]', x=-2702.53, y=59.00, z=48.43, cpos=[-169, 3], tl=4312, v=true] died: Infernal Frog was slain by Termostato34
+[02:47:34] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:47:39] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8538, uuid='e63afc17-78fc-4384-ae38-d85f913986f2', l='ServerLevel[world_the_end]', x=-2758.80, y=58.00, z=68.18, cpos=[-173, 4], tl=101, v=true] died: Infernal Frog was slain by Termostato34
+[02:47:43] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:48:08] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8551, uuid='92e7c694-3b8d-438d-9080-0eb8ab4f02e3', l='ServerLevel[world_the_end]', x=-2739.85, y=59.00, z=69.07, cpos=[-172, 4], tl=503, v=true] died: Infernal Frog was slain by Termostato34
+[02:48:20] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:48:36] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8593, uuid='2f845e97-fd9e-426c-ba70-85de072579f5', l='ServerLevel[world_the_end]', x=-2772.35, y=58.22, z=90.26, cpos=[-174, 5], tl=308, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
+[02:48:47] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:49:09] [Server thread/WARN]: Termostato34 moved wrongly!
+[02:49:11] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8615, uuid='fe637143-f6a7-4de1-9a18-175fa730ec22', l='ServerLevel[world_the_end]', x=-2770.79, y=58.00, z=85.90, cpos=[-174, 5], tl=471, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
+[02:49:22] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:49:30] [Server thread/WARN]: Termostato34 moved wrongly!
+[02:49:38] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8647, uuid='95414539-d39f-4600-a9bb-2b1b06a7e7d2', l='ServerLevel[world_the_end]', x=-2769.36, y=58.00, z=89.49, cpos=[-174, 5], tl=308, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
+[02:49:54] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:50:04] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8682, uuid='9be08709-9a6b-47f1-93ce-abac271d7fb1', l='ServerLevel[world_the_end]', x=-2769.65, y=57.00, z=75.70, cpos=[-174, 4], tl=197, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
+[02:50:10] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:50:19] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
+[02:50:21] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/8708, uuid='abc05847-9a5b-4414-bee9-1f463a7bb5ac', l='ServerLevel[world_the_end]', x=-2765.70, y=58.00, z=73.79, cpos=[-173, 4], tl=26, v=true] died: Infernal Zombie was slain by Termostato34 using [Canadian Axe]
+[02:50:50] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:50:55] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8737, uuid='75fbec0d-58de-4666-9926-e2089ac35463', l='ServerLevel[world_the_end]', x=-2712.57, y=60.00, z=75.20, cpos=[-170, 4], tl=100, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
+[02:51:02] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:51:12] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8752, uuid='d253b2cd-31c5-4017-aaee-60fc1fd07584', l='ServerLevel[world_the_end]', x=-2721.79, y=59.37, z=64.47, cpos=[-171, 4], tl=206, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
+[02:51:46] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:51:48] [Server thread/INFO]: Named entity Frog['Infernal Frog'/8884, uuid='69fef421-4231-44fc-81d0-d5eea1f1e43c', l='ServerLevel[world_the_end]', x=-2690.00, y=64.76, z=239.09, cpos=[-169, 14], tl=47, v=true] died: Infernal Frog was slain by Termostato34 using [Canadian Axe]
+[02:51:58] [Server thread/INFO]: Termostato34 issued server command: /infernalmobs spawn FROG
+[02:52:33] [Server thread/INFO]: Termostato34 issued server command: /gamemode creative
