@@ -213,3 +213,15 @@
 [02:11:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> lo nuestro es secreto
 [02:11:05] [Async Chat Thread - #0/INFO]: [Not Secure] <Bumper202> shhhh
 [02:11:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Termostato34> *se sonroja*
+[02:13:29] [Server thread/WARN]: Termostato34 moved too quickly! -7.209441262118162,-53.0,-1.080529742947931
+[02:13:29] [Server thread/INFO]: Termostato34 has completed the challenge [Great View From Up Here]
+[02:14:11] [Server thread/INFO]: Villager Villager['Farmer'/1086, uuid='dd3944b0-6eba-4ea1-9c92-2b8cafe5ed7d', l='ServerLevel[world]', x=-1817.01, y=61.05, z=664.18, cpos=[-114, 41], tl=43316, v=true] died, message: 'Farmer drowned'
+[02:14:25] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/2052, uuid='6e6853f4-d96f-47ad-afb7-5bb8da79bf3a', l='ServerLevel[world]', x=-1765.06, y=14.17, z=704.30, cpos=[-111, 44], tl=884, v=true] died: Infernal Skeleton suffocated in a wall
+[02:15:53] [Server thread/WARN]: Termostato34 moved too quickly! 7.9168421888875855,-71.0,-6.494677304602874
+[02:17:54] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/2567, uuid='993ca963-f907-4655-81a7-d7b12b2925c6', l='ServerLevel[world_the_end]', x=-2310.56, y=58.19, z=380.58, cpos=[-145, 23], tl=1769, v=true] died: Infernal Enderman went off with a bang
+[02:20:22] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/3240, uuid='bdd95a0b-e343-4399-aa8e-0c1bb5e0b416', l='ServerLevel[world_the_end]', x=-2521.38, y=58.19, z=637.53, cpos=[-158, 39], tl=829, v=true] died: Infernal Enderman was slain by Termostato34 using [Canadian Axe]
+[02:21:12] [Async Chat Thread - #2/INFO]: [Not Secure] <Bumper202> y el pedazo de escroto ese donde está?
+[02:21:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Termostato34> no se digale
+[02:21:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Bumper202> bueno
+[02:21:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Termostato34> que se deje de hacer el mmgv
+[02:21:46] [Server thread/INFO]: Villager Villager['Villager'/1051, uuid='499f2c0d-b472-47fe-8630-e3ac96afd0df', l='ServerLevel[world]', x=-1817.99, y=61.05, z=664.55, cpos=[-114, 41], tl=52669, v=true] died, message: 'Villager drowned'
