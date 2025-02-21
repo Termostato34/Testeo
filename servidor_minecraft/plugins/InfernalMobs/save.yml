@@ -369,7 +369,6 @@ b63c6ac4-847d-4c3c-ae3e-3f24c4b3febe: molten,lifesteal,mama,vengeance,weakness,p
 3922f598-5478-4048-9821-b6bb698c1ba3: poisonous,webber,explode,blinding,ender
 d5ed2381-21f2-4fd3-92cb-20e99e4c7b0e: necromancer,sapper,rust,ghost,potions
 6b56994f-4c8e-4dd8-ba9a-f0d6e037c39d: poisonous,withering,firework,potions
-0ca8736a-bb07-485a-910a-5ec4b4299825: mama,mounted,gravity,cloaked
 51dbd047-7cc4-4219-86aa-98c5d54468cf: webber,bullwark,thief
 7f424fb8-4535-4395-aed2-d433c3a24181: firework,webber,thief,necromancer,ender,tosser
 be07db23-e72a-4550-8ef0-d5982a600eeb: berserk,tosser,webber,armoured
@@ -541,6 +540,17 @@ a3d69f72-adbc-440d-b569-6bbfd20789aa: 1up,mounted,sprint,storm,bullwark
 0f34ecbd-fa39-4bea-b982-159dc88968a3: webber,ghost,armoured,blinding,tosser,ender,explode
 1f3bbd24-f489-43cc-a377-a7a88a24ecd5: weakness,1up,cloaked
 b9ccf5ea-1da0-4c6c-ac08-51fea9be8e37: bullwark,firework,ghost,sapper,ghastly,weakness,morph
-5a8ce8e1-b31e-4d14-a652-9dd18da3a6b2: ghastly,potions,quicksand,weakness,tosser,ender
 a2663aab-1baa-4bc3-b52c-8ad2a5f9e903: ender,sapper,webber,mounted,archer,quicksand
 2cc78d68-31a6-4b79-a636-52d97e83189e: sprint,storm,lifesteal,gravity
+26cfbdc4-b0c9-48ff-9773-afec049bbc83: explode,rust,sprint,ghastly,lifesteal
+1107b9ed-26cd-4339-9d08-ab0a4688c79a: archer,quicksand,withering,ender,mama
+365b94d3-486c-461b-b8fa-9eba9d585bfa: potions,storm,weakness,flying,gravity,sprint,ender
+035d5c30-3853-47d2-b186-773116f53fb0: mounted,morph,1up,potions,flying,storm,firework
+692ce1e5-037a-47d2-a306-c8e346e26931: ghastly,weakness,rust
+c920e8cf-8147-4c0b-aeda-1ecc99fa3acf: poisonous,webber,armoured,thief,cloaked
+ba181356-d88f-4954-8985-79489b6cd672: poisonous,weakness,archer,webber,molten
+54cc55ee-5900-4ae7-825f-f1c8dee1d2b4: berserk,quicksand,mounted,armoured,morph
+8e66d84e-eef6-4b09-8793-d0feddf31086: vengeance,tosser,gravity,lifesteal,sprint
+e82ac31e-0540-4ec0-81b3-bbe1955a1d34: armoured,mounted,morph,flying,1up,ghost,thief
+a2078984-6366-408b-98aa-21ed5d5e8c42: thief,archer,armoured,bullwark
+571569e3-d0be-42d8-97da-3a417f8bf7d3: necromancer,quicksand,rust,flying,berserk

@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1739694436548
-  login: 1740023965533
+  logout: 1740105002754
+  login: 1740104945131
 money: '0'
 last-account-name: skullyxrd
 logoutlocation:
   world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
   world-name: world
-  x: -1584.4706506866703
-  y: 124.71667556937207
-  z: 993.3484083583918
-  yaw: 85.19482421875
-  pitch: -83.25000762939453
+  x: -1584.6367459833161
+  y: 168.0
+  z: 995.1857728785847
+  yaw: -103.65010070800781
+  pitch: 27.29998207092285
 lastlocation:
   world: 926d6cc3-8b6c-4109-b5f6-6ac5239ae1b6
   world-name: world
